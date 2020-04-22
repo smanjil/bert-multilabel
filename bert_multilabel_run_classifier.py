@@ -717,7 +717,8 @@ def main():
             if val not in id2preds:
                 id2preds[val] = []
         
-        with open(os.path.join(args.data_dir, "mlb.pkl"), "rb") as rf:
+        with open(os.path.join(args.data_dir, f"mlb_{args.corpus_type}.pkl"),
+                  "rb") as rf:
             mlb = pkl.load(rf)
 
         preds = [mlb.classes_[preds[i, :].astype(bool)].tolist() for i in range(preds.shape[0])]
