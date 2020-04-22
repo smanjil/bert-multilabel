@@ -1,0 +1,5 @@
+*.pyc
+submissions/
+tmp/
+*.bin
+*.pt
