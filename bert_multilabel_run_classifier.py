@@ -650,7 +650,8 @@ def main():
                 logger.info("  %s = %s", key, str(result[key]))
                 writer.write("%s = %s\n" % (key, str(result[key])))
         
-        with open(os.path.join(args.data_dir, "mlb.pkl"), "rb") as rf:
+        with open(os.path.join(args.data_dir, f"mlb_{args.corpus_type}.pkl"),
+                  "rb") as rf:
             mlb = pkl.load(rf)
         preds = [mlb.classes_[preds[i, :].astype(bool)].tolist() for i in range(preds.shape[0])]
         id2preds = {val:preds[i] for i, val in enumerate(ids)}
