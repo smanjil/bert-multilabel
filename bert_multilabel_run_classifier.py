@@ -113,7 +113,7 @@ class ClefTask1Processor(DataProcessor):
                                                  f"{corpus_type}.pkl")
         self.dev_file = os.path.join(data_dir, f"dev_data_{corpus_type}.pkl")
         self.test_file = os.path.join(data_dir, f"test_data_{corpus_type}.pkl")
-        self.mlb = load_pkl(os.path.join(data_dir, "mlb.pkl"))
+        self.mlb = load_pkl(os.path.join(data_dir, f"mlb_{corpus_type}.pkl"))
         self.use_data = use_data
         #
         data = self._read_tsv(self.train_file)
