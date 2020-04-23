@@ -105,7 +105,7 @@ class DataProcessor(object):
         return load_pkl(input_file)
 
 
-class ClefTask1Processor(DataProcessor):
+class NTSTaskProcessor(DataProcessor):
     """Processor for the CLEF eHealth task1 data set."""
     
     def __init__(self, data_dir, corpus_type, use_data="orig", test_file=None):
@@ -454,7 +454,7 @@ def main():
         ptvsd.wait_for_attach()
     
     processors = {
-        "clef": ClefTask1Processor
+        "nts": NTSTaskProcessor
     }
     
     if args.local_rank == -1 or args.no_cuda:
@@ -501,7 +501,8 @@ def main():
     
     processor = processors[task_name](args.data_dir,
                                       args.corpus_type, use_data=args.use_data)
-    pos_weight = torch.tensor(processor.pos_weight, requires_grad=False, dtype=torch.float, device="cuda")
+    pos_weight = torch.tensor(processor.pos_weight, requires_grad=False,
+                              dtype=torch.float, device=device)
     label_list = processor.get_labels()
     num_labels = len(label_list)
     
@@ -629,7 +630,7 @@ def main():
             else:
                 ids[0] = np.append(
                     ids[0], doc_ids.detach().cpu().numpy(), axis=0)
-        
+
         eval_loss = eval_loss / nb_eval_steps
         ids = ids[0]
         preds = sigmoid(preds[0])
@@ -638,13 +639,13 @@ def main():
         result = compute_metrics(task_name, preds, all_label_ids.numpy())
         #result = compute_metrics(task_name, preds, all_label_ids.numpy())
         loss = tr_loss/nb_tr_steps if args.do_train else None
-        
+
+        result['train_loss'] = loss
         result['eval_loss'] = eval_loss
         result['global_step'] = global_step
-        result['loss'] = loss
         
         output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
-        with open(output_eval_file, "w") as writer:
+        with open(output_eval_file, "a") as writer:
             logger.info("***** Eval results *****")
             for key in sorted(result.keys()):
                 logger.info("  %s = %s", key, str(result[key]))
