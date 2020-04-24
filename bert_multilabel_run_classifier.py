@@ -296,7 +296,7 @@ class BertForMultiLabelSequenceClassification(BertPreTrainedModel):
 
 def compute_metrics(task_name, preds, labels):
     assert len(preds) == len(labels)
-    if task_name == "clef":
+    if task_name == "nts":
         return {"f1": f1_score(y_true=labels, y_pred=preds, average='micro')}
     else:
         raise KeyError(task_name)
