@@ -649,7 +649,7 @@ def main():
             logger.info("***** Eval results *****")
             for key in sorted(result.keys()):
                 logger.info("  %s = %s", key, str(result[key]))
-                writer.write("%s = %s\n" % (key, str(result[key])))
+                writer.write("%s = %s\n\n" % (key, str(result[key])))
         
         with open(os.path.join(args.data_dir, f"mlb_{args.corpus_type}.pkl"),
                   "rb") as rf:
