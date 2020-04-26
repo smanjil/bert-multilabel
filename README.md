@@ -46,17 +46,24 @@ export DATA_DIR=exps-data/data
 export BERT_EXPS_DIR=tmp/bert-exps-dir
 
 ```
+
+### Epochs
+```
+25 epochs for mulitilingual model, 20 epochs for english model.
+batch size 64
+```
+
 Run the model:
 ```bash
 python bert_multilabel_run_classifier.py \
     --data_dir $DATA_DIR \
-    --use_data en \
+    --use_data de \
     --bert_model $BERT_MODEL \
-    --task_name clef \
+    --task_name nts \
     --output_dir $BERT_EXPS_DIR/output \
     --cache_dir $BERT_EXPS_DIR/cache \
     --max_seq_length 256 \
-    --num_train_epochs 7.0 \
+    --num_train_epochs 25.0 \
     --do_train \
     --do_eval \
     --train_batch_size 16
@@ -69,9 +76,9 @@ Run predictions (change files to test/dev manually in processor):
 ```bash
 python bert_multilabel_run_classifier.py \
     --data_dir $DATA_DIR \
-    --use_data en \
+    --use_data de \
     --bert_model $BERT_EXPS_DIR/output \
-    --task_name clef \
+    --task_name nts \
     --output_dir $BERT_EXPS_DIR/output \
     --cache_dir $BERT_EXPS_DIR/cache \
     --max_seq_length 256 \
