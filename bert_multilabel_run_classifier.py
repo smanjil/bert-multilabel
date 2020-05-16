@@ -33,7 +33,7 @@ from torch.utils.data import RandomSampler, SequentialSampler
 from torch.utils.data.distributed import DistributedSampler
 
 from tqdm import tqdm, trange
-from sklearn.metrics import f1_score
+from sklearn.metrics import f1_score, precision_score, recall_score
 
 from pytorch_pretrained_bert.modeling import BertForSequenceClassification
 from pytorch_pretrained_bert.modeling import BertConfig, BertModel, BertPreTrainedModel
@@ -278,6 +278,7 @@ class BertForMultiLabelSequenceClassification(BertPreTrainedModel):
         if labels is not None:
             if self.loss_fct == "bbce":
                 loss_fct = BalancedBCEWithLogitsLoss()
+                # loss_fct = BCEWithLogitsLoss()
             else:
                 loss_fct = torch.nn.MultiLabelSoftMarginLoss()
             loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1, self.num_labels))
@@ -297,7 +298,13 @@ class BertForMultiLabelSequenceClassification(BertPreTrainedModel):
 def compute_metrics(task_name, preds, labels):
     assert len(preds) == len(labels)
     if task_name == "nts":
-        return {"f1": f1_score(y_true=labels, y_pred=preds, average='micro')}
+        return {
+            "precision": precision_score(y_true=labels, y_pred=preds,
+                                  average='micro'),
+            "recall": recall_score(y_true=labels, y_pred=preds,
+                                  average='micro'),
+            "f1": f1_score(y_true=labels, y_pred=preds, average='micro')
+        }
     else:
         raise KeyError(task_name)
 
@@ -573,7 +580,7 @@ def main():
     nb_tr_steps = 0
     tr_loss = 0
 
-    def eval():
+    def eval(epoch=None):
         eval_examples = processor.get_dev_examples()
         eval_features = convert_examples_to_features(
             eval_examples, label_list, args.max_seq_length, tokenizer)
@@ -616,6 +623,7 @@ def main():
             # create eval loss and other metric required by the task
             # output_mode == "classification":
             loss_fct = BalancedBCEWithLogitsLoss()
+            # loss_fct = BCEWithLogitsLoss()
             tmp_eval_loss = loss_fct(logits.view(-1, num_labels), label_ids.view(-1, num_labels))
             
             eval_loss += tmp_eval_loss.mean().item()
@@ -659,12 +667,14 @@ def main():
         id2preds = {val:preds[i] for i, val in enumerate(ids)}
         preds = [id2preds[val] if val in id2preds else [] for i, val in enumerate(all_ids_dev)]
         
-        with open(os.path.join(args.output_dir, "preds_development.txt"), "w") as wf:
+        with open(os.path.join(args.output_dir, f"preds_development"
+                                                f"{epoch}.txt"),
+                  "w") as wf:
             for idx, doc_id in enumerate(all_ids_dev):
                 line = str(doc_id) + "\t" + "|".join(preds[idx]) + "\n"
                 wf.write(line)
 
-    def predict():
+    def predict(epoch=None):
         test_examples = processor.get_test_examples()
         test_features = convert_examples_to_features(
             test_examples, label_list, args.max_seq_length, tokenizer)
@@ -727,7 +737,9 @@ def main():
         id2preds = {val:preds[i] for i, val in enumerate(ids)}
         preds = [id2preds[val] if val in id2preds else [] for i, val in enumerate(all_ids_test)]
         
-        with open(os.path.join(args.output_dir, "preds_test.txt"), "w") as wf:
+        with open(os.path.join(args.output_dir, f"preds_test{epoch}.txt"),
+                  "w") as\
+                wf:
             for idx, doc_id in enumerate(all_ids_test):
                 line = str(doc_id) + "\t" + "|".join(preds[idx]) + "\n"
                 wf.write(line)
@@ -754,7 +766,7 @@ def main():
         train_dataloader = DataLoader(train_data, sampler=train_sampler, batch_size=args.train_batch_size)
         
         model.train()
-        for _ in trange(int(args.num_train_epochs), desc="Epoch"):
+        for epoch in trange(int(args.num_train_epochs), desc="Epoch"):
             tr_loss = 0
             nb_tr_examples, nb_tr_steps = 0, 0
             for step, batch in enumerate(tqdm(train_dataloader, desc="Iteration")):
@@ -766,6 +778,7 @@ def main():
                 
                 # if output_mode == "classification":
                 loss_fct = BalancedBCEWithLogitsLoss()
+                # loss_fct = BCEWithLogitsLoss()
                 loss = loss_fct(logits.view(-1, num_labels), label_ids.view(-1, num_labels))
 
                 if n_gpu > 1:
@@ -794,7 +807,25 @@ def main():
                     optimizer.step()
                     optimizer.zero_grad()
                     global_step += 1
-            eval()
+
+            eval(epoch=epoch)
+            predict(epoch=epoch)
+
+            # save checkpoints
+            # Save a trained model, configuration and tokenizer
+            # model_to_save = model.module if hasattr(model,
+            #                                         'module') else model  # Only save the model it-self
+            #
+            # # If we save using the predefined names, we can load using `from_pretrained`
+            # os.makedirs(f"{args.output_dir}/{epoch}")
+            # output_model_file = os.path.join(f"{args.output_dir}/{epoch}", "
+            #                                  f"WEIGHTS_NAME)
+            # output_config_file = os.path.join(f"{args.output_dir}/{epoch}", CONFIG_NAME)
+            #
+            # torch.save(model_to_save.state_dict(), output_model_file)
+            # model_to_save.config.to_json_file(output_config_file)
+            # tokenizer.save_vocabulary(f"{args.output_dir}/{epoch}")
+            # end save checkpoints
     
     if args.do_train and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
         # Save a trained model, configuration and tokenizer
