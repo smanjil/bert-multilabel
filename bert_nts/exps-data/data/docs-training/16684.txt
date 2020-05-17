@@ -1,0 +1,6 @@
+Endozytose-Reporter
+Generierung von Mausmodellen die die Erhebung dynamischer Daten zu verschiedensten pathophysiologischen Endozytose-Prozessen in Säugetierorganen bei Krankheiten wie metabolischem Syndrom, Crush-Syndrom, oder medikamenten-bedingtem Nierenversagen ermöglichen. Die Daten sind Grundlage der Entwicklung neuer Therapieansätze.
+Belastungen aufgrund der GenerierungSuperovulation:
+
+mittel, 1-7 TageEmbryotransfer:
+gering, < 1 TagVasektomie:

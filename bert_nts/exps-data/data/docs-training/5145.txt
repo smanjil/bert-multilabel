@@ -1,0 +1,6 @@
+Konditionierung
+Das Projekt dient der Charakterisierung von Neurotransmissionsvorgängen in bestimmten Hirnregionen, die Verhaltenswirkungen von Umgebungsreizen vermitteln. Es wird vermutet, das bei Suchterkrankungen suchtassoziierte Umgebungsreize ein Verlangen nach Suchtmitteln und Rückfall auslösen. Das Versuchsvorhaben trägt zur Aufklärung der beteiligten Neurotransmissions- vorgänge bei.  
+Chirurgische Implantation von biomedizinischen Geräten unter Narkose (mittlere Belastung), mehrfache Applikation von Wirkstoffen (mittlere Belastung), Tötung nach Versuchsende, Gewebeentnahme, Histologie.  
+Nach dem Stand der Erkenntnisse ist der Versuchszweck nur durch Tierversuche zu erreichen. Nur im intakten Organismus kann die Physiologie komplexerer  Hirnleistungen untersucht werden.   
+Die Bemessung der Tierzahl beruht auf einer Fallzahlschätzung aufgrund von Forschungserfahrungen. Die Teststärke ist der Effektstärke angepasst(Alpha <0.05;   Beta < 0.2).    
+Die Dosierungen wurden so gewählt, dass die Belastungen unter Beachtung des Versuchsziels so gering wie möglich sind.

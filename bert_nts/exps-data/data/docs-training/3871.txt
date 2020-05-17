@@ -1,0 +1,6 @@
+Zucht der Mauslinien Kras_TLR2/4
+Es ist das Ziel dieses Projekts, eine Kras Mauslinie zu generieren, die zusätzlich für die Toll-Like Rezeptoren TRL2 und TLR4 defizient ist und diese Mauslinien  für weitere Versuchsvorhaben aufrechtzuerhalten. Hierfür werden Tiere, die defizient für TLR2 und TLR4 sind, mit Kras Mäusen gekreuzt.
+Die körperliche Belastung für die Tiere wird als mäßig eingeschätzt, da es zum Wachstum von Lungentumoren kommt.
+Die Verfügbarkeit von genetisch modifizierten Mausstämmen macht die Maus zum bevorzugten Versuchstier. Die zu untersuchenden Vorgänge und Mechanismen sind abhängig vom gesamten Organismus und es gibt keine in vitro Modelle, die die genannten Experimente ersetzen können. Das Versuchsvorhaben wird durchgeführt, um die Grundlagen der Lungenkrebsentstehung und Metasta-sierung besser zu verstehen und neue Ansätze für Therapien zu finden. Dies ist von Bedeutung, da Lungenkrebs kaum therapierbar ist. Da angenommen wird, dass die körpereigene Immunantwort und hiermit verbundene Entzündungsprozesse bei der Entstehung und dem Verlauf von Lungenkrebs eine besondere Rolle spielt, sind Tierversuche unerlässlich. 
+Die gezüchteten Tiere werden auf ein für weiter Versuchsvorhaben notwendeiges Minimum beschränkt.
+Tiere werden getötet, bevor sie unter der Turmorlast leiden.

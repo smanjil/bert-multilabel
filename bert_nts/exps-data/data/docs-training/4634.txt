@@ -1,0 +1,6 @@
+Testung der neuen Impfstoff-Kandidaten
+Die genannten Versuche sollen zur Entwicklung neuer Impfstoffe durchgeführt werden. In diesem versuch soll zunächst im Kleintier überprüft werden, ob eine Antikörperbildung stattfindet. Erst anschließend soll die Verwendung im Großtier getestet werden. 
+Die Tierversuche finden im Rahmen der Vorgaben der Gesellschaft für Versuchstierkunde statt, so dass adäquate Verfahren für Narkose und Schmerzbehandlung angewendet werden. Die Interventionen (Blutentnahme und Medikamentengabe) sind leicht und keine Schäden sind zu erwarten.
+Eine Impfantwort mit Bildung von Antikörpern kann nur im Lebenden Organismus getestet werden, da zur Impfantwort ein komplexer Prozess (u.a. Antigenpräsentation, Antikörperbildung) erforderlich ist und dabei verschiedene Zellsysteme (B-Zellen, T-Zellen, dendritische Zellen etc.) benötigt werden.
+Es wurde zur Fallzahlberechnung eine Power-Analyse durchgeführt, um statistisch valide Versuchsergebnisse zu erhalten. Unter Berücksichtigung der statistischen Variabilität wurde die Gruppengröße für jede Dosierung/Peptid auf 6 Mäuse begrenzt. Diese Anzahl kann nicht unterschritten werden.
+Für die Versuche sind Mäuse erforderlich. Die pathophysiologischen Signalwege bei den hier geplanten Mausmodellen sind ähnlich denen vom Nutztieren, so dass die Versuchsergebnisse eine gute Übertragung erlauben.

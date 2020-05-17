@@ -1,0 +1,6 @@
+Zuchtrahmenantrag Linienanzeige Nr. 1
+Mit der Zucht der hier beantragten Mauslinie wird diese Linie für den Einsatz in zukünftigen Experimenten sichergestellt.
+Bei der Zucht selber werden keine Belastungen erwartet. Bei den homozygoten Nachkommen können neurologische Abnormalitäten ab einem Alter von 4 Monaten auftreten, die Belastung wird als gering eingestuft.
+Bestimmte wissenschaftliche Zielsetzungen, insbesonders komplexe Vorgänge in einem Gesamtorganismus, lassen sich nicht in vitro hinreichend erforschen. Deshalb ist die Zucht bestimmter transgener Mausmodelle erforderlich.
+Für die Erreichung des Zuchtziels wurde von der geringsten notwendigen Anzahl an Tieren ausgegangen, die dafür notwendig ist.
+Für die Zucht werden Mäuse eingesetzt. Sie ist physiologisch dem Menschen nahe verwandt, es gibt gut charakterisierte genomische Ressourcen, die Maus-Genomsequenz ist zugänglich und gezielte Eingriffe in die Keimbahn der Maus sind mittels der zur Verfügung stehenden Transgen-Technologien möglich. So können Mauslinien für zukünftige Versuchsvorhaben bereitgestellt werden.

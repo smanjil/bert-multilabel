@@ -1,0 +1,6 @@
+Migration intestinaler TH17-Zellen
+Wir wollen die Mechanismen der Migration von TH17 Zellen aus dem Darm in entzündete Gewebe bei Autoimmunerkrankungen und Keim-bedingten Entzündungsreaktionen besser verstehen. Ziel dieser Untersuchungen ist es, in Zukunft durch gezieltere Therapie Autoimmunerkrankungen bei Patienten besser und nebenwirkungsärmer behandeln zu können.
+Bei der Induktion der Glomerulonephritis erhalten die Mäuse eine i.p. Injektion, anschließend werden die Tiere täglich beurteilt, die Belastung ist als gering zuwerten. Bei einigen Tieren wird eine Bestrahlung des Darms mit violettem Lichterfolgten, durch den operativen Eingriff ist eine mittelgr. Belastung zuerwarten. Die Induktion Erkrankung mit Citrobacter, Candida oder Staphylokokken ruft eine mäßiggr.Belastung hervor.
+Pathophysiologische Vorgänge, wie das Auswandern von Zellen aus dem Darm und das Einwandern in das geschädigte Gewebe (Niere), können aufgrund ihrer Komplexität nicht in Zellkultur oder isolierten Organpräparationen simuliert werden.
+Die Anzahl der verwendeten Versuchstiere ist so gering bemessen, dass aussagekräftige Ergebnisse erzielt werden.
+Überwachungskriterien über den gesundheitlichen Zustand der Versuchstiere und die spezifischen Endpunkte sind so gewählt, dass ein Leiden der Tiere vermieden oder vermindert wird.

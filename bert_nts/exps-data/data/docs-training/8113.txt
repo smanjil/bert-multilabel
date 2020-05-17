@@ -1,0 +1,6 @@
+3D Analyse vaskulärer Strukturen
+Ziel des Projektes ist es vaskuläre Strukturen mit einer zum heutigen Standard (2D Histologie) gesteigerten Qualität, zu bestimmen. Wir erwarten, dass wir vaskuläre Veränderungen quantitativ und qualitativ besser analysieren können als mit der Histologie. 
+Den Mäusen wird unter Narkose i.v. ein Farbstoff appliziert und danach das Tier ohne Wiedererwachen getötet. Narkose ist für Mäuse ein kurzzeitiger Stress, so dass wir hier von einer geringen Belastung ausgehen. 
+In diesem Vorhaben soll eine Methode validiert werden. Wir erwarten, dass wir mit dieser Technik die konventionelle Histologie in Tierversuchen teilweise ersetzten können. Dieses Verfahren kann nur an den Modellorganismen selbst erprobt werden. 
+Der Versuch wird mit einem sequentiellen Vorgehen durchgeführt und bei offensichtlich fehlendem Erfolg sofort terminiert.
+Die Mäuse werden ohne Wiedererwachen getötet. Die Maus wird als der kleinste im Versuch eingesetzte Säuger gewählt. 

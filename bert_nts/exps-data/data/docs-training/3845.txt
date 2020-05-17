@@ -1,0 +1,6 @@
+Einfluß einer Chemikalie auf den Phosphatstoffwechsel
+Das geplante Versuchsvorhaben untersucht die toxische Wirkung einer Chemikalie auf den Phosphatstoffwechsel bei Ratten. Es liegen derzeit keine Informationen vor, zu welchen Änderungen von phosphatregulierenden Hormonen eine wiederholte Gabe in der Ratte führt und ob diese Hormonänderungen einen Effekt auf Nachkommen haben können.
+Die Studie zielt auf die Ermittlung des Einflusses der Substanz auf den Phosphatstoffwechsel unterhalb eines Dosisniveaus, welches systemische Toxizität erzeugt. 
+Eine Möglichkeit Änderungen im hormonellen Regelkreis nach Substanzgabe zu messen, besteht nur im Ganzkörpersystem. Eine Überprüfung, ob die Chemikalie einen Einfluß auf phosphatregulierende Hormone hat, ist daher nur im Tierversuch möglich. Alternative Methoden, die diesen Nachweis ohne Tierversuch erbringen können, sind nicht bekannt. 
+Es wir die minimale Tierzahl eingesetzt, die genügend statistische Power für ein aussagekräftiges Versuchsvorhaben hat.
+Die Tiere werden unter möglichst optimalen Bedingungen gehalten. Bei schweren Leiden oder Schäden werden die Tiere sofot getötet.

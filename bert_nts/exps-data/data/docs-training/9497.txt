@@ -1,0 +1,6 @@
+Regenrationssignale in Fettleber
+Neben dem Ziel, Erkenntnisse zu Lebererkrankungen zu gewinnen, wollen wir unser neues Assay-System weiter etablieren, um in Zukunft Tierversuche damit zu ersetzen. 
+Mäuse, die für zwei Wochen mit einer fettreichen Diät gefüttert werden, entwickeln eine moderate Form der Fettleber ohne entzündliche Veränderungen oder sonstige Folgeerkrankungen. 
+Um eine Leberverfettung zu erzeugen, braucht es den Metabolismus des gesamten Tieres. Die folgenden Versuche zu Leberregeneration und Krebszellverhalten auf der Leber führen wir allerdings in vitro durch, so dass belastende Tierversuche wie partielle Hepatektomie oder Tumorwachstum in vivo bereits vermieden werden.
+Wir gewinnen für unser in vitro-Lebergewebe-Kultursystem mehrere Leberschnitte aus der Leber eines Tieres, so dass wir im Gegensatz zu in vivo-Versuchen in der Lage sind, mehrere Versuchsbedingungen mit einem Tier abzudecken. 
+Wir beschränken uns auf die Erzeugung einer moderaten Leberverfettung ohne entzündliche Folgeerkrankungen. Siehe auch den Abschnitt "Schäden".Obwohl der angestrebte Versuch nicht zu einem Leiden der Tiere führt, werden wir sie trotzdem anhand eines Scores überwachen.

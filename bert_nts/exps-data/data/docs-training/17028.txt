@@ -1,0 +1,6 @@
+Kompetitive Einnistung von Zellen ins Knochenmark
+Die Metastsierung von Tumorzellen ist komplex und viele Schritte sind noch nicht vollständig aufgeklärt. Die Veränderung der Umgebung könnte die Einwanderung und das Wachstum von Tumoren beeinflussen. Dadurch kann ein besseres Verständnis des Metastasierungsprozess erzielt werden. 
+Die Versuchstiere bekommen Zellen von anderen Tieren und es werden Metastasen induziert. Anschließend wird die Einnistung der Tumorzellen im Knochenmark untersucht. Durch das Wachstum der Tumore können Schmerzen in den Versuchstieren auftreten, wie sie auch bei Patienten mit Tumoren bekannt sind.
+Experimente mit Zellen sind nicht ausreichend, da sich Tumorzellen in vitro anders verhalten können als in vivo. Des Weiteren wird das Zusammenspiel mehrerer Zelltypen in diesem Versuch getestet, deren Charakterisierung noch nicht vollständig ist.
+Das Experiment ist so angelegt, dass eine einmalige Untersuchung genügend Daten liefern wird, so dass eine Wiederholung nicht erforderlich ist.
+Die Anzahl der Mäuse wurde auf ein Minimum gehalten. Es ist allerdings unerlässlich Versuchstiere zu verwenden, da die Komplexität der Tumorzelleinnistung nur hier simuliert werden kann. Die Methoden und das verwendete Tiermodell sind jedoch gut etabliert.

@@ -1,0 +1,6 @@
+Mechanismen der TH17 Migration
+Wir wollen die Mechanismen der Migration von TH17 Zellen aus dem Darm in die Niere besser verstehen. Ziel dieser Untersuchungen ist es, in Zukunft durch gezieltere Therapie autoimmune Nierenerkrankungen bei Patienten besser und nebenwirkungsärmer behandeln zu können.
+Bei der Induktion der Glomerulonephritis erhalten die Mäuse eine i.p. Injektion, anschließend werden die Tiere täglich beurteilt, die Belastung ist als gering zu werten. Bei einigen Tieren wird eine Bestrahlung des Darms mit violettem Licht erfolgten, durch den operativen Eingriff ist eine mittelgr. Belastung zu erwarten. Die Gabe von LPS wird gemäß der Richtlinie als erhebliche Belastung angesehen. Die Induktion einer Enteritis mit Citrobacter ruft eine mäßiggr. Belastung hervor.
+Pathophysiologische Vorgänge, wie das Auswandern von Zellen aus dem Darm und das Einwandern in das geschädigte Gewebe (Niere), können aufgrund ihrer Komplexität nicht in  Zellkultur oder isolierten Organpräparationen simuliert werden.
+Die Anzahl der verwendeten Versuchstiere ist so gering bemessen, dass aussagekräftige Ergebnisse erzielt werden.
+Überwachungskriterien über den gesundheitlichen Zustand der Versuchstiere und die spezifischen Endpunkte sind so gewählt, dass ein Leiden der Tiere vermieden oder vermindert wird.

@@ -1,0 +1,6 @@
+DNA-PKcs-Inhibitor
+Verbesserung der Prognose für Pankreaskarzinompatienten durch Strahlensensibilisierung der Tumoren.
+Belastungen: Implantationsoperation des Tumors, Bestrahlung, Chemotherapie, Blutentnahme, Narkose; Gesamtbelastung maximal mäßig unter Beachtung der Abbruchkriterien.Schmerzlose Tötung der Tiere am Ende des Versuchs.
+Komplexes Organsystem für eine kliniknahe Bestrahlung der Tumoren notwendig, das nicht ex vivo dargestellt werden kann. 
+Zuhilfenahme statistischer Methoden zur Berechnung der notwendigen Tierzahl; ausgiebige Recherche und in vitro Versuche im Vorfeld.
+Keine schmerzhaften Eingriffe ohne Narkose.Zum derzeitigen Zeitpunkt intakter Säugetierorganismus zur Erstellung des orthotopen Modells mit Chemotherapie sowie Strahlentherapie notwendig.

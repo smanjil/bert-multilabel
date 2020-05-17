@@ -1,0 +1,6 @@
+Tiermodell für Diabetes Typ 1
+Tiermodelle für den T1D werden dort eingestzt, wo es aus ethischen Gründen nicht möglich ist am Menschen zu forschen. Mit Hilfe neuer Techniken können gezielt Gene in Tiermodellen verändert werden, die eine Rolle in der Pathogenese des autoimmunen Diabetes spielen. Dadurch ist es möglich die Funktion der Gene aufzuklären um letztendlich neue Therapiestrategien zur Therapie und wenn möglich Prävention des T1D zu entwickeln.
+Ein Teil der Tiere entwickelt einen autoimmunen Diabetes. Der Schaden ist gering, weil mit der Manifestion des Diabetes die Tiere therapiert werden.
+Für die Erforschung des T1D ist der Gesamtorganismus notwendig. Alternative Testsysteme gibt es nicht.
+Es werden nur soviele Tiere generiert, wie notwendig sind um eine Zucht aufzubauen
+Es werden alle Eingriffe, die zu Schmwerzen führen unter Narkose durchgeführt. Nach den Eingriffen werden Schmerzmittel verabreicht.

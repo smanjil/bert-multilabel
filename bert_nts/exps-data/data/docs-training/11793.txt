@@ -1,0 +1,6 @@
+Effekte einer Anämie in myokardialer Ischämie
+In unserem Projekt möchten wir zeigen dass:-
+eine Anämie negative Auswirkungen auf die kardiale Funktion während und nach einer akuten myokardialen Ischämie hat-
+Der erythrozytäre NO-Metabolismus einen entscheidenden Einfluss in einer Anämie während und nach einem Herzinfarkt hat.Das Projekt soll einen Beitrag leisten in der Aufklärung der (patho-)physiologischen Effekte einer Anämie auf eine myokardiale Ischämie, welches allgemein bekannt ein Risikofaktor für Herzinfarktpatienten ist und zu einer schlechteren Prognose führt im Vergleich zu Patienten ohne Anämie. Die molekularbiologischen Zusammenhänge und Effekte sind bisher noch weitgehend unbekannt. 
+In Mäusen wird unter tiefer Narkose eine Anämie durch wiederholte Blutentnahme induziert. Danach wird eine myokardiale Ischämie erzeugt, ebenfalls unter tiefer Narkose und Analgesie. Am Ende der Versuchsreihe wird das Tier mittels zervikaler Dislokation getötet und die Organe für weitere Untersuchungen entnommen. Die Belastungen dieser Eingriffe/ behandlungen sind gemäß Anhang VIII der Richtlinie 2010/63/EU als gering bis mäßig eingestuft. Alle Eingriffe erfolgen unter Narkose (und Analgesie), um Schmerzen zu vermeiden und Stress zu reduzieren.
+Erythrozyten kardioprotektive Effekte während einer myokardialen Ischämie vermitteln-

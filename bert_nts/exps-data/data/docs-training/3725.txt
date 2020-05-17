@@ -1,0 +1,6 @@
+HEPATO 2015 (Ratte/Maus)
+Frisch gewonnene Hepatozyten eignen sich besonders gut um Lebertoxizität in vitro von potentiellen Arzneimitteln zu testen, da sie nahezu die vollständige metabolische Kompetenz wie in vivo vorweisen.Mit den in vitro Tests an frisch-gewonnenen Hepatozyten von der Maus/Ratte können potentielle Arzneistoffe auf ihr lebertoxisches Potential getestet und "geranked" werden und verhindert somit Tierversuche für als lebertoxisch befundene potentielle Arzneimittelkandidaten.   
+ausschließlich Belastung durch Durchführung der Narkose, d.h. Fixieren des Tieres, IP Applikation des Narkosemittels (gering), das Tier wacht aus der Narkose nicht mehr auf (terminal Narkose; keine Wiederherstellung der Lebensfunktionen)
+Zelllinien weisen nicht mehr die metabolische Kompetenz auf, die in vivo vorliegt und daher sind Zytotoxizitätsversuche an Zelllinien wenig aussagekräftig.Dieser Test zur Hepatotoxizität verhindert die Durchführung von in vivo Versuchen mit Substanzen, die ein eindeutig lebertoxisches Potential in diesem Test aufweisen. 
+In der Regel werden mehrere Tests mit den gewonnenen Leberzellen eines Tieres durchgeführt (Testung mehrerer Substanzen).
+Die Tiere versterben in der Narkose, sodass dieser Versuch nicht belastend ist, bis auf das "Handling" während der Narkoseeinleitung.

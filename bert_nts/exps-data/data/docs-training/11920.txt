@@ -1,0 +1,6 @@
+Redoxregulation in der Entstehung von Vasospasmen
+Es wird nach neuen pharmakologischen Zielstrukturen für die Therapie von cerebralen Vasospasmen gesucht. Der Tierversuch wird für den zu untersuchenden Stoff nachweisen, ob er an der Entstehung von Vasospasmen beteiligt ist bzw. therapeutisch eingesetzt werden kann. In diesem Fall könnte der Stoff künftig in der Arzneimittelentwicklung verwendet werden.
+Im Model wird ein cerebraler Vasospasmus durch eine Subarachnoidalblutung induziert. Bei der gegebenen Versuchslaufzeit ist ein operatives Trauma, neurologische Defizite und Schlaganfall zu erwarten. 
+Vasospasmen sind eine integrative Antwort des Körpers. Zwar zeigen auch Zellen und Organe Kontraktionsreaktionen in Kultur, Vasospasmen können jedoch bis heute nicht ex vivo untersucht werden. Beim Prozess ist besonders die Interaktion von Blutzellen mit den Organen und eine lange Beobachtungszeit wichtig und diese kann bisher nur im Tierversuch dargestellt werden.
+Der Versuch wird mit einem sequentiellen Vorgehen durchgeführt und bei offensichtlich fehlendem Effekt oder frühem Erreichen signifikanter Unterschiede sofort terminiert. 
+Da Vasospasmen eine spezifische Reaktion von Säugetieren ist, wird hier die Maus als der kleinste im Versuche eingesetzte Säuger gewählt. Die Tiere werden postoperativ analgesiert.

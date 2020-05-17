@@ -1,0 +1,6 @@
+TVV Zucht CB: Embryonalentwicklung Nervensystem
+Das TVV ist ein Projekt der Grundlagenforschung zu dem Thema:Embyonalentwicklung des Nervensystems und endokriner Zellen.Erkenntnisse aus diesen Projekten werden zum besseren Verständnis der Pathogenese von Krankheiten des Menschen beitragen.
+Es wird erwartet, dass die beantragten Mäuse nach Geburt nicht lebensfähig sind. Die Mausmbryonen werden daher mittels Hysterektomie entnommen oder sofort nach Geburt getötet, um Belastungen auszuschließen.Belastungsgrad: gering
+Die Differenzierung und Funktion des Nervensystems und der endokrinen Zellen setzt den zellulären Kontakt im intakten Organismus voraus. Daher ist das Mausmodell für diese Fragestellungen unerläßlich.
+Die Zahl der Verpaarungen wird auf ein Minimum reduziert. Durch das Verpaarungsschema und die Verwendung von Cre-Mäusen zur gezielten Mutation in definierten Zellen wird die Zahl der gezüchteten Mäuse reduziert.Nach Abschlus des Projektes wird über eine Kryokonservierung der Mauslinien entschieden, so dass die Erhaltungszucht vermieden wird.
+Durch Tötung vor oder kurz nach Geburt werden Belastungen vermieden.

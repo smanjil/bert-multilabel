@@ -1,0 +1,6 @@
+CREM/CREB bei kindlichem Rheuma
+Wir haben eine vermehrte Expression eines Transkriptionsfaktors in regulatorischen T-Zellen (Tregs) bei Kindern mit Rheuma (JIA ) entdeckt. Um zu überprüfen, ob dieser für die Erkrankung relevant ist und als mögliches therapeutisches Ziel dienen kann, wollen wir ein Arthritismodell in Mäusen durchführen, und gleichzeit Tregs transferieren, denen der Faktor fehlt. Wir erwarten, dass die Tiere dann weniger krank werden.   
+Die Tiere haben eine mässige Belastung. Es werden zunächst T-Zellen transferiert, die einen spezifischen Rezeptor haben. Die Tiere werden dann immunisiert mit dem Antigen des Rezeptors, um die T-Zellen zu vermehren. Eine Woche später erfolgt der Transfer von Tregs sowie die Injektion des Antigens in ein Kniegelenk unter Sedierung. Im Weiteren wird die Gelenkschwellung täglich gemessen und die Tiere  spätestens 14 Tage nach Gelenkinjektion getötet, die Gelenke histologisch und Zellen durchflusszytometrisch untersucht. 
+Es gibt keine Möglichkeit, eine komplexe Erkrankung wie die Arthritis in vitro nachzustellen.
+Wir haben die geringstmögliche Anzahl an Tieren gewählt, um eine statistische valide Aussage treffen zu können. Im Versuch selber sind nur 36 Tiere, der Rest sind Zellspender.
+Die Tiere erhalten nach intraartikulärer Injektion eine Schmerzmedikation mit Buprenorphin bis zum Ende des Versuches. 

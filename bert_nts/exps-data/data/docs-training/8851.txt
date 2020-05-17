@@ -1,0 +1,6 @@
+Fischtests nach OECD 201 und OECD 210
+Aus Umweltschutzgründen verlangt der Gesetzgeber  für die Zulassung von Chemikalien, Pflanzenschutzmittel, Tierarzneimittel, Arzneimittel, Biozide und Kosmetika die Bestimmung der akuten Toxizität (OECD 201) sowie die Bestimmung von lethalen und sublethalen Effekte von Substanzen und Gemischen gegenüber Fischen (OECD 210),.
+Bei der Testung ist die Art der Belastung für die Testfische nicht prognistizierbar.Überlebende Test- und Kontrollfische werden am Ende des Tests gem. den Empfehlungen der Tierärztlichen Vereinigung für Tierschutz e. V schmerzfrei getötet. Dies erfolgt mittels eines mit Na- Bicarbonat gepufferten Tötungsbades mit 500 mg/L Tricain (MS222, 3-Aminobenzoesäureethylester).
+Für die Bestimmung der Fischtoxizität gibt es derzeit keine anerkannten Ersatzmethoden.
+Recherche ob bereits Daten zur Fischtoxizität vorliegen.
+--

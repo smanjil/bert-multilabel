@@ -1,0 +1,6 @@
+gesetzliche Sicherheitsprüfungen von Arzneimitteln
+Die in diesem Versuchsvorhaben beschriebenen Versuche erfolgen zur Umsetzung der Anforderungen des Arzneimittelgesetzes und der gesetzlich vorgegebenen Arzneimittelprüfrichtlinien.  Das Versuchsvorhaben trägt bei, den Schutz des Menschen vor unerwünschten Wirkungen von Arzneimitteln zu gewährleisten und gleichzeitig neue Arzneimittel zur Behandlung von Krankheiten des Menschen zu entwickeln.
+Die Tiere werden geringen bis mittelgradigen Belastungen während des Versuches ausgesetzt.
+Das Versuchsvorhaben kommt nur zur Anwendung, wenn andere Methoden oder der Einsatz einer anderen Spezies nicht oder nicht hinreichend geeignet sind, die gesetzlichen Vorgaben zum Schutz des Menschen zu erfüllen. 
+Das Design der Prüfungen folgt den gesetzlich vorgeschriebenen Arzneimittelrichtlinien für die Entwicklung von Arzneimittel. Die Tierzahl wird so gering wie möglich und erforderlich zur Gewährleistung des gesetzlichen Schutzzieles gewählt. 
+In Erfüllung der gesetzlichen Vorgaben werden zahlreiche Parameter zur Beurteilung der Verträglichkeit erhoben und Daten zur Exposition sowie zu Biomarkern bestimmt und hierdurch weitere eigenständige Prüfungen minimiert. 

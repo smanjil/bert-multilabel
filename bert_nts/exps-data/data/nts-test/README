@@ -1,0 +1,38 @@
+
+
+The test set for the CLEF eHealth 2019, Task 1 (Multilingual Information Extraction) (more info at [1]) consists of the following folder and files:
+
+- docs/: folder containing 407 documents that are summaries of animal experiments which are originally available in [2]. Each document is identified by an identifier (the file name) and  contains 6 lines of text, as follows:
+
+1. title of the document;
+2. uses (goals) of the experiment;
+3. possible harms caused to the animals;
+4. comments about replacement (in the scope of the 3R principles);
+5. comments about reduction (in the scope of the 3R principles);
+6. comments about refinement (in the scope of the 3R principles).
+
+All documents are in the German language and consist of summaries of animal experiments recently carried out in Germany (more info in our publication [3]).
+
+- anns_test.txt: file containing all annotations (ICD-10 codes) for the documents to which codes have been assigned. Some documents have no ICD-10 codes assigned to them. Some examples of the annotations are shown below:
+
+17288	J95-J99|X
+4970	C50-C50|C00-C97|C00-C75|II
+3673	V
+
+Each line contains a document identifier, separated by a TAB symbol, to the list of one or mode ICD-10 codes. In this list, codes are serarated by a pipe symbol (|). 
+
+All codes are chapters or groups from the ICD-10 German Modification 2016 version [4]. 
+
+- ids_test.txt: file containing the list of identifiers (one per line) that belong to the test set.
+
+---------
+
+[1] https://sites.google.com/view/clefehealth2019/task-1-multilingual-information-extraction-icd10-coding
+
+[2] http://animaltestinfo.de/
+
+[3] https://journals.plos.org/plosbiology/article/comments?id=10.1371/journal.pbio.2003217
+
+[4] https://www.dimdi.de/static/de/klassifikationen/icd/icd-10-gm/kode-suche/htmlgm2016/
+
+

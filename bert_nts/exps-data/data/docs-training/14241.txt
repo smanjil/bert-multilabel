@@ -1,0 +1,6 @@
+Kombinationsbehandlungen mit Glucocorticoiden
+Das vorliegende Versuchsvorhaben soll zur Aufkläreung der anti-inflammatorischen Mechanismen der Glucocorticoide nach Entzündung dienen. Dabei werden kombinatorische Behandlungen mit Glucocorticoiden und Kinase Inhibitoren verwendet um die Konzentration an GCs zu reduzieren. Es soll in vitro weiterhin am Verständnis dieser Mechanismen gearbeitet werden um gezielt Ansatzpunkte für Therapeutika zu identifizieren.
+Die Tiere entwickeln eine Entzündungsreaktion, welche sich in Absenkung der Körpertemperatur äußert. Die Tiere werden im Abstand von 2-4 Stunden überprüft.
+Die Tier Experimente werden durch Analysen in primären Zellen ersetzt, wenn immer es ausreichend ist um den molekularen Mechanismus zu erklären. Die Schlüsselexperimente bedürfen jeodch der Tiere, da die komplexe Hypothalamus- Hypophysen- Nebennieren(HPA) Achsen Aktvierung nur im Organismus und nicht durch in vitro Versuche untersucht werden kann.
+Es handelt sich hierbei um einen Pilotversuch, so dass die Anzahl der Tiere so gering und minimal wie möglich gehalten wurde.
+Die Untersuchungen führen zu einem neuen Erkenntnisgewinn und könnten Ansatzpunkt für spezifischere neue GC Therapien sein.

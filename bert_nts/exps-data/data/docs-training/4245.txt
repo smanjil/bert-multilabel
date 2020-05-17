@@ -1,0 +1,6 @@
+akute Toxizität von Fluortryptophan in der Ratte
+Die zu testende Substanz soll als radioaktiv markierter Tracer bei onkologischen Erkrankungen eingesetzt werden. Vor Applikation am Menschen soll im Rattenmodell die akute Toxizität bei systemischer Einzelapplikation überprüft werden. Der Tracer wird bei Tumoren mit gesteigerter spezifischer Enzymaktivität die diagnostische Bildgebung und damit Auffindung der Tumoren verbessern.
+Es handelt sich bei der zu testenden Substanz um ein Derivat einer natürlichen Aminosäure. Es werden bei systemsicher Appkkation keine Schäden erwartet. Die Belastung durch intravenöse Applikation ist als sehr gering zu bewerten.
+Um die akute Toxizität zu überprüfen ist eine Applikation am Gesamttier notwendig. die Applikation erfolgt in Anlehnung an die gültigen OECD Richtlinien.
+Da die Substanz in 0.9% NaCl verabreicht wird, läuft keien parallele Vehiklelkontrolle. Es gibt vergleichbare Studien, die zur Verifizierung herangezogen werden können. Die verwendete Zahl der tiere ist auf ein Minimum bechränkt.
+Die Substanz wird in geringer Dosierung (mit Sicherheitsfaktor 1000 zur humanen Anwendung appliziert. Wegen Vergleichbarkeit der Daten muss auf die Ratte zurückgegriffen wrden. Sie ist die Referenzspezies für akute Toxizitätsuntersuchungen im Nager.

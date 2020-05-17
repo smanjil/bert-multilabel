@@ -1,0 +1,6 @@
+Alpha 1-Antitrypsin-Defizienz
+Zweck des hier beantragten Versuchsvorhabens ist die Generierung eines Mausmodells mit einer Alpha 1- Antitrypsin-Defizienz, einer der häufigsten Erbkrankheiten bei Menschen mit europäischer Abstammung. Mutationen in dem Alpha 1-Antitrypsin-Gen führen zu genetisch bedingter Lebererkrankung und gehen beim Erwachsenen mit einem erhöhten Risiko eine ?chronic obstructive pulmonary disease? (COPD) und in der Folge ein Lungenemphysem zu entwickeln einher.  Schätzungen zufolge wird die Erkrankung nur bei ca. 5% der Betroffenen diagnostiziert und bleibt somit häufig unterkannt. 
+Für diesen Antrag werden ausschließlich Routineverfahren wie z.B. Eizellgewinnung, Mikroinjektion und Embryotransfer eingesetzt, die Belastung ist daher bei allen verwendeten Tieren als gering bis maximal kurzfristig mäßig einzustufen. 
+Es steht kein in-vitro Modell zur Verfügung mit dem die Komplexität der die komplexität des gesamten Organismus nachvollzogen werden kann. 
+Die verwendete Technick der Transgenese mit der CRISPR/CAS Mikroinjektion weißt eine sehr hohe Effizienz auf, so das die Tierzahl, im Vergleich zu anderen Transgenes-Methoden, gering gehalten werden kann. 
+Alle operativen Eingriffe erfolgen unter Allgemeinnarkose mit Schmerzbehandlung. Die Tiere sind in ihrem Verhalten und Allgemeinbefinden unbeeinträchtigt

@@ -1,0 +1,6 @@
+Tamoxifen-induzierter Genknockout in Mäusen
+Das vorliegende Tierversuchsvorhaben dient der Etablierung von Tamoxifen-induzierbaren Gen-Knockouts in Mäusen. 
+Die in diesem Versuchsvorhaben erwartete Belastung ist bei allen Gruppen als maximal gering einzustufen. Der größte Schaden stellt der Tod zur Organentnahme dar.
+Zur Untersuchung der Funktion von Genen für bestimmte Gewebe kommen Mäuse mit konditionellem Gen-Knockout zum Einsatz. Die Untersuchung der physiologischen und pathophysiologischen Funktion von Genen bedingt den Einsatz von Mäusen, da nur hier das komplexe Zusammenspiel verschiedener Zelltypen gegeben ist. 
+Zu untersuchende Gruppe und Kontrollgruppe verwenden die gleichen Tiere. Durch den absoluten identischen genetischen Hintergrund sind die beiden Gruppen sehr gut miteinander vergleichbar, wodurch die Datenstreuung durch interindividuelle Varianz reduziert wird. Dies ermöglicht Versuchswiederholungen zu verhindern. Hinzu kommt, dass die nötigen Zuchten klein gehalten werden können, da sowohl Kontroll- als Untersuchungsgruppe den gleichen Genotyp verwenden.
+Durch die Etablierung des Tamoxifen-induzierbaren Gen-knockouts ist es uns möglich, in Zukunft Tiere einzusparen. Im vorliegenden Vorhaben haben wir durch Kooperation mit anderen Arbeitsgruppen und der genauen Studie der Literatur die Versuchsgruppen gering halten können.
