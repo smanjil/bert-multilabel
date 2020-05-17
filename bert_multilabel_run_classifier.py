@@ -277,8 +277,8 @@ class BertForMultiLabelSequenceClassification(BertPreTrainedModel):
         
         if labels is not None:
             if self.loss_fct == "bbce":
-                loss_fct = BalancedBCEWithLogitsLoss()
-                # loss_fct = BCEWithLogitsLoss()
+                # loss_fct = BalancedBCEWithLogitsLoss()
+                loss_fct = BCEWithLogitsLoss()
             else:
                 loss_fct = torch.nn.MultiLabelSoftMarginLoss()
             loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1, self.num_labels))
@@ -622,8 +622,8 @@ def main():
             
             # create eval loss and other metric required by the task
             # output_mode == "classification":
-            loss_fct = BalancedBCEWithLogitsLoss()
-            # loss_fct = BCEWithLogitsLoss()
+            # loss_fct = BalancedBCEWithLogitsLoss()
+            loss_fct = BCEWithLogitsLoss()
             tmp_eval_loss = loss_fct(logits.view(-1, num_labels), label_ids.view(-1, num_labels))
             
             eval_loss += tmp_eval_loss.mean().item()
@@ -777,8 +777,8 @@ def main():
                 logits = model(input_ids, segment_ids, input_mask, labels=None)
                 
                 # if output_mode == "classification":
-                loss_fct = BalancedBCEWithLogitsLoss()
-                # loss_fct = BCEWithLogitsLoss()
+                # loss_fct = BalancedBCEWithLogitsLoss()
+                loss_fct = BCEWithLogitsLoss()
                 loss = loss_fct(logits.view(-1, num_labels), label_ids.view(-1, num_labels))
 
                 if n_gpu > 1:
@@ -813,18 +813,18 @@ def main():
 
             # save checkpoints
             # Save a trained model, configuration and tokenizer
-            # model_to_save = model.module if hasattr(model,
-            #                                         'module') else model  # Only save the model it-self
-            #
-            # # If we save using the predefined names, we can load using `from_pretrained`
-            # os.makedirs(f"{args.output_dir}/{epoch}")
-            # output_model_file = os.path.join(f"{args.output_dir}/{epoch}", "
-            #                                  f"WEIGHTS_NAME)
-            # output_config_file = os.path.join(f"{args.output_dir}/{epoch}", CONFIG_NAME)
-            #
-            # torch.save(model_to_save.state_dict(), output_model_file)
-            # model_to_save.config.to_json_file(output_config_file)
-            # tokenizer.save_vocabulary(f"{args.output_dir}/{epoch}")
+            model_to_save = model.module if hasattr(model,
+                                                     'module') else model  # Only save the model it-self
+            
+            # If we save using the predefined names, we can load using `from_pretrained`
+            os.makedirs(f"{args.output_dir}/{epoch}")
+            output_model_file = os.path.join(f"{args.output_dir}/{epoch}", "
+                                             f"WEIGHTS_NAME)
+            output_config_file = os.path.join(f"{args.output_dir}/{epoch}", CONFIG_NAME)
+           
+            torch.save(model_to_save.state_dict(), output_model_file)
+            model_to_save.config.to_json_file(output_config_file)
+            tokenizer.save_vocabulary(f"{args.output_dir}/{epoch}")
             # end save checkpoints
     
     if args.do_train and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
