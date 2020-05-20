@@ -248,7 +248,7 @@ def save(fname, data):
         pkl.dump(data, wf)
 
 
-def read_train_file(processed_train_file, label_threshold=25):
+def read_train_file(processed_train_file, label_threshold=0):
     with open(processed_train_file, "rb") as rf:
         train_data = pkl.load(rf)
 
