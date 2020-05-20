@@ -277,7 +277,6 @@ class BertForMultiLabelSequenceClassification(BertPreTrainedModel):
         
         if labels is not None:
             if self.loss_fct == "bbce":
-                # loss_fct = BalancedBCEWithLogitsLoss()
                 loss_fct = BCEWithLogitsLoss()
             else:
                 loss_fct = torch.nn.MultiLabelSoftMarginLoss()
@@ -580,7 +579,7 @@ def main():
     nb_tr_steps = 0
     tr_loss = 0
 
-    def eval(epoch=None):
+    def eval():
         eval_examples = processor.get_dev_examples()
         eval_features = convert_examples_to_features(
             eval_examples, label_list, args.max_seq_length, tokenizer)
@@ -622,7 +621,6 @@ def main():
             
             # create eval loss and other metric required by the task
             # output_mode == "classification":
-            # loss_fct = BalancedBCEWithLogitsLoss()
             loss_fct = BCEWithLogitsLoss()
             tmp_eval_loss = loss_fct(logits.view(-1, num_labels), label_ids.view(-1, num_labels))
             
@@ -667,14 +665,13 @@ def main():
         id2preds = {val:preds[i] for i, val in enumerate(ids)}
         preds = [id2preds[val] if val in id2preds else [] for i, val in enumerate(all_ids_dev)]
         
-        with open(os.path.join(args.output_dir, f"preds_development"
-                                                f"{epoch}.txt"),
+        with open(os.path.join(args.output_dir, "preds_development.txt"),
                   "w") as wf:
             for idx, doc_id in enumerate(all_ids_dev):
                 line = str(doc_id) + "\t" + "|".join(preds[idx]) + "\n"
                 wf.write(line)
 
-    def predict(epoch=None):
+    def predict():
         test_examples = processor.get_test_examples()
         test_features = convert_examples_to_features(
             test_examples, label_list, args.max_seq_length, tokenizer)
@@ -777,7 +774,6 @@ def main():
                 logits = model(input_ids, segment_ids, input_mask, labels=None)
                 
                 # if output_mode == "classification":
-                # loss_fct = BalancedBCEWithLogitsLoss()
                 loss_fct = BCEWithLogitsLoss()
                 loss = loss_fct(logits.view(-1, num_labels), label_ids.view(-1, num_labels))
 
@@ -808,23 +804,23 @@ def main():
                     optimizer.zero_grad()
                     global_step += 1
 
-            eval(epoch=epoch)
-            predict(epoch=epoch)
+            eval()
+            predict()
 
             # save checkpoints
             # Save a trained model, configuration and tokenizer
-            model_to_save = model.module if hasattr(model,
-                                                     'module') else model  # Only save the model it-self
-            
-            # If we save using the predefined names, we can load using `from_pretrained`
-            os.makedirs(f"{args.output_dir}/{epoch}")
-            output_model_file = os.path.join(f"{args.output_dir}/{epoch}", "
-                                             f"WEIGHTS_NAME)
-            output_config_file = os.path.join(f"{args.output_dir}/{epoch}", CONFIG_NAME)
-           
-            torch.save(model_to_save.state_dict(), output_model_file)
-            model_to_save.config.to_json_file(output_config_file)
-            tokenizer.save_vocabulary(f"{args.output_dir}/{epoch}")
+            # model_to_save = model.module if hasattr(model,
+            #                                          'module') else model  # Only save the model it-self
+            #
+            # # If we save using the predefined names, we can load using `from_pretrained`
+            # os.makedirs(f"{args.output_dir}/{epoch}")
+            # output_model_file = os.path.join(f"{args.output_dir}/{epoch}", "
+            #                                  f"WEIGHTS_NAME)
+            # output_config_file = os.path.join(f"{args.output_dir}/{epoch}", CONFIG_NAME)
+            #
+            # torch.save(model_to_save.state_dict(), output_model_file)
+            # model_to_save.config.to_json_file(output_config_file)
+            # tokenizer.save_vocabulary(f"{args.output_dir}/{epoch}")
             # end save checkpoints
     
     if args.do_train and (args.local_rank == -1 or torch.distributed.get_rank() == 0):
