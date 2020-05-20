@@ -734,7 +734,7 @@ def main():
         id2preds = {val:preds[i] for i, val in enumerate(ids)}
         preds = [id2preds[val] if val in id2preds else [] for i, val in enumerate(all_ids_test)]
         
-        with open(os.path.join(args.output_dir, f"preds_test{epoch}.txt"),
+        with open(os.path.join(args.output_dir, "preds_test.txt"),
                   "w") as\
                 wf:
             for idx, doc_id in enumerate(all_ids_test):
