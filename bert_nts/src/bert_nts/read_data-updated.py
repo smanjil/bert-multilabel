@@ -9,7 +9,8 @@ from concurrent.futures import ProcessPoolExecutor
 from sklearn.preprocessing import MultiLabelBinarizer
 from collections import Counter
 
-from config import TRAINING_DOCS, TESTING_DOCS, ANNS_TRAIN_DEV, ANNS_TEST, \
+from config_updated import TRAINING_DOCS, TESTING_DOCS, ANNS_TRAIN_DEV, \
+    ANNS_TEST, \
     IDS_TRAINING, IDS_DEVELOPMENT, IDS_TESTING, RAW_TRAIN_FILE, \
     RAW_DEV_FILE, RAW_TEST_FILE, MLB_TRAIN_FILE, MLB_DEV_FILE, \
     MLB_TEST_FILE, MLB_FILE, DISCARDED_FILE
@@ -248,7 +249,7 @@ def save(fname, data):
         pkl.dump(data, wf)
 
 
-def read_train_file(processed_train_file, label_threshold=0):
+def read_train_file(processed_train_file, label_threshold=5):
     with open(processed_train_file, "rb") as rf:
         train_data = pkl.load(rf)
 
