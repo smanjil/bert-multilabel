@@ -1,0 +1,6 @@
+Tumorrelevante Gene
+Die geplanten Tierversuche stellen Screening Experimente dar, die der Identifizierung neuer tumorrelevanter Gene dienen. Ziel ist es, neue Kandidaten zu charakterisieren, die zum Verständnis der Tumorentstehung beitragen und Anwendung in der Krebstherapie finden.
+Die Tiere entwickeln je nach Versuchsteil subkutane Tumore und Lungenmetastasen oder Hauttumore. 
+In der Krebsbehandlung sind neue Therapieansätze erforderlich, um Patienten zu helfen. Da Tumore aber immer auch eine systemische Erkrankung darstellen, muss die Komplexität des Organismus berücksichtigt werden. So ist eine Versorgung und Interaktion der Tumorzellen durch umgebendes Gewebe und Immunzellen nur in in vivo Modellen (Tiermodellen) darstellbar. 
+Unter Berücksichtigung der hohen Anzahl von Genen, die in den Versuchen auf ihre Tumorrelevanz getestet werden sollen, ist die Anzahl der beantragten Mäuse auf ein unerläßliches Maß beschränkt, um noch ein statistisch auswertbares Ergebnis erzielen zu können.
+Die Versuche verwenden ein neues Verfahren, das es ermöglicht eine Bibliothek von Genen in nur wenigen Tieren zu testen. Im Gegensatz dazu benötigen Untersuchungen von einzelen Genen in der Maus eine Vielzahl von Mäusen. Die Methode stellt somit eine deutliche Verbesserung und Reduktion von Tierversuchen dar.

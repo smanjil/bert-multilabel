@@ -1,0 +1,6 @@
+Akutversuch zur linksventrikulären Stimulation mit einer Koronarsinussonde
+Mithilfe dieses Versuchs soll geklärt werden, ob durch Ausnutzung aller Stimulationspolaritäten ein hämodynamischer Benefit für den Patienten zu erzielen ist. 
+Keine, Versuch in finaler Vollnarkose.
+Der zu testende Algorithmus wurde bereits ausgiebig in-vitro optimiert bevor er im Tierversuch getestet wird, aber nur im Tierversuch kann die komplexe Interaktion mit dem menschlichen Körper ausreichend simuliert werden.
+Es sollen maximal 2 Tiere verwendet werden. Falls die Ergebnisse des ersten Tieres zufriedenstellend sind, wird auf die Verwendung des zweiten Tieres verzichtet.
+Die Tiere werden in Vollnarkose behandelt, aus der sie nicht mehr erwachen. So wird das Leiden der Tiere vermindert. 

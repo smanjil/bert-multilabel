@@ -1,0 +1,6 @@
+Inhibition eines experimentellen Pemphigus
+Ziel des Versuchsvorhabens ist es, die Wirkung eines Inhibitors auf dieInduktion eines Pemphigus, einer Autoimmunerkrankung der Haut, im Mausmodell zu untersuchen.Sollte ein therapeutischer Effekt im Mausmodell festzustellen sein, könntedies ein erster Schritt zur Entwicklung eines neuen Therapieansatzes fürdiese kutane Autoimmunerkrankung sein.
+Die Induktion einer experimentellen entzündlichen Hauterkrankung über einenZeitraum von 16 Stunden führt bei den Tieren zu einer insgesamt mäßigenBelastung. Am Versuchsende erleiden die Tiere die maximale Belastung, da siegetötet werden, um die Endpunkte analysieren zu können.
+Die komplexen Interaktionen, die zu einer kutanen Hautentzündung führen,können nicht in vitro dargestellt werden.
+Die Anzahl der für dieses Versuchsvorhaben geplanten Tiere wurde so geringwie möglich gehalten.
+Das Modell der hier zu untersuchenenden Hauterkrankung wurde bisher nur inder Maus etabliert. Andere Tiermodelle gibt es hierzu nicht.

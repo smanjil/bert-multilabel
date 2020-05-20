@@ -1,0 +1,6 @@
+Erstellung einer transgeen FVB/NHanZtm Mauslinie
+Zweck des hier beantragten Versuchsvorhabens ist die Generierung einer Reporter-Transposontransgenen Maus, um Stammzellen während der Entwicklung identifizieren zu können. Diese Technik soll anschließend auf das Rind und Schwein übertragen werden, da es in diesen Spezies bisher nicht gelungen ist echte Stammzellen zu gewinnen.
+Für diesen Antrag werden ausschließlich Routineverfahren wie z.B. Eizellgewinnung und Embryotransfer eingesetzt, die Belastung ist daher bei allen verwendeten Tieren als gering bis maximal kurzfristig mäßig einzustufen. 
+Es steht kein in-vitro Modell zur Verfügung mit dem die Komplexität der Stammzellentwicklung der verschiedenen Zelltypen auch nur annähernd nachvollzogen werden kann. Alle weiteren Analysen werden in der Zellkultur durchgeführt. 
+Die verwendete Technick der Transgenese mit der Transposontechnologie weißt eine sehr hohe Effizienz auf, so das die Tierzahl, im Vergleich zu anderen Transgenes-Methoden, extrem gering gehalten werden kann. 
+Alle operativen Eingriffe erfolgen unter Allgemeinnarkose mit Schmerzbehandlung. Die Tiere sind in ihrem Verhalten und Allgemeinbefinden unbeeinträchtigt.

@@ -1,0 +1,6 @@
+Untersuchung von visueller Wahrnehmung in der Maus
+Identifikation des NCC im visuellen System der Maus.In unseren früheren Arbeiten, welche in 2.3.6 beschrieben sind, haben wir gezeigt, dass die Effekte von visueller Maskierung auch in Mäusen beobachtet werden kann. Der nächste Schritt besteht darin, neuronale Areale zu identifizieren, welche eine nachhallende neuronale Aktivität zeigen, deren Länge sich mit dem maximalen Zeitversatz, die den Zielreiz unsichtbar macht, deckt. Um die kausalen Zusammenhänge zwischen den derart identifizierten Arealen und visueller Wahrnehmung zu untersuchen, werden anschließend optogenetische Methoden benutzt. Untersucht wird, inwiefern raumzeitlich präzise optogenetische Unterdrückung von neuronaler Aktivität die visuelle Wahrnehmung beeinflusst. Der Vorteil einer optogenetischen Unterdrückung ist, dass die nachhallende Komponente spezifisch unterdrückt werden kann, während phasische Komponente, welche tiefer liegende Areale antreiben, ungestört bleiben. 
+Operation mit Erwachen aus Narkose
+Gering; Kopffixation auf einer Laufscheibe
+Gering; Zellableitungen
+Mittel; Kontrollierter Zugang zu Wasser

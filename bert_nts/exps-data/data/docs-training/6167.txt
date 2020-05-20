@@ -1,0 +1,6 @@
+Neue therapeutische Ziele für Krebstherapie
+Ionenkanäle spielen in der Entstehung und weiterentwicklung von Krebszellen eine wichtige Rolle. Bei den untersuchten Kanäle handelt es sich um eine Klasse von Moleküle, deren Einfluss in der Krebsentstehung neu entdeckt wurde. Wir werden die genaue Funktionen von vier von dieser Molekülen untersuchen, indem wir die Expression von einzelne Ionenkanäle geziehlt im Tumor ausschalten.
+Den Mäuse werden Tumorzellem injiziiert um kleine subkutane Tumore zu generieren. Das ist sehr gut toleriert, und die Mäuse zeigen keine Änderungen nach der Implantation. Die Tiere sind täglich untersucht, um mögliche Schäden zu detektieren und beseitigen.
+Alle Voruntersuchungen wurden in Zellkultur vorgenommen. Die Tierexperimente dienen dazu, das typische invasive Verhalten von Tumorzellen und den Einfluss der Kanäle auf das Tumorwachstum und Ausbreitung zu untersuchen. Dies ist nur in einem in vivo Modell möglich. 
+Die Zahl der Tiere wurde kalkuliert um mit der geringsten Tierzahl ein statistisch aussagekräftiges Ergebnis zu bekommen.
+Die Experimente sind so konzipiert, dass die Wirkung von unseren Zielmolekülen in ein einzige Tier gemessen werden können. Es werden nicht zwei verschiedene Populationen verglichen, sondern eine gewisse Zahl von Individuen.

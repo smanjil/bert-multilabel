@@ -1,0 +1,6 @@
+Long-term Toxizitätstest mikrobieller Pestizide an Fischen n. OPPTS 850.4200
+Das Versuchsvorhaben dient zur Ermittlung der Fischgiftigkeit von mikrobiellen Pestiziden im Rahmen des Zulassungsverfahrens nationaler und internationaler Regelwerke. Bei den verwendeten Mikroorganismen handelt es sich um Arten, welche zielgerichtet gegen Insekten, Pilze und Pflanzen verwendet werden können und keine negativen Effekte auf andere Organismen und den Menschen zu erwarten sind (OECD ENV/JM/MONO(2011)43). 
+Bei den Prüfungen an Fischen ist schweres Leiden zu erwarten. Ziel ist die Ermittlung einer zum Tode führenden Konzentration. Am Versuchsende werden die Tiere schmerzfrei getötet.
+Bei den zu prüfenden Stoffen handelt es sich um Substanzen, die bisher nicht oder unvollständig charakterisiert sind und die aufggrund ihrer Produktionsmengen geprüft werden müssen. Daten zur Umweltgiftigkeit sind daher nicht verfügbar. Es erfolgt vor Beginn des Versuchsvorhabens eine Recherche, z.B. bei der Europäischen Behörde für Lebensmittelsicherheit (EFSA). 
+Die Anzahl der einzusetzenden Versuchtiere wird durch die Richtlinie vorgegeben. Die Durchführung des Versuchsvorhabens mit der minimalen Anzahl an Versuchstieren wird grundsätzlich angestrebt.
+Die Fische werden unter Bedingungen gehalten, die ihren Ansprüchen hinsichtlich Besatzdichte und Schwarmgröße gerecht werden. 

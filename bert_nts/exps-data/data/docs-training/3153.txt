@@ -1,0 +1,6 @@
+Fischtests gemäß OECD 204, 212, 215, 234
+Aus Umweltschutzgründen verlangt der Gesetzgeber (u. a. REACH; Chemikaliengesetz) für die Zulassung von Chemikalien, Pflanzenschutzmittel, Tierarzneimittel, Arzneimittel, Biozide und Kosmetika die Bestimmung der lethalen und sublethalen Effekte von Substanzen und Gemischen gegenüber Fischen.
+Bei der Testung von Chemikalien ist die Art der Belastung für die Testfische nicht prognistizierbar.Überlebende Test- und Kontrollfische werden am Ende des Tests gem. den Empfehlungen der Tierärztlichen Vereinigung für Tierschutz e. V schmerzfrei getötet. Dies erfolgt mittels eines mit Na- Bicarbonat gepufferten Tötungsbades mit 500 mg/L Tricain (MS222, 3-Aminobenzoesäureethylester).  .
+Für die Bestimmung der in den vier OECD Richtlinien beschriebenen toxischen Effekten gegenüber Fischen gibt es derzeit keine Ersatzmethoden.
+Für die zu prüfende Substanz wird im Vorfeld recherchiert, ob bereits Daten zur Fischtoxizität vorliegen um überflüssige Tierversuche zu vermeiden.
+--

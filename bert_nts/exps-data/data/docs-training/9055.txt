@@ -1,0 +1,6 @@
+Kompetition MSC und Tumorzellen
+Die Metastasierung von Tumorzellen ist komplex und viele Schritte sind noch nicht vollständig aufgeklärt. Ergebnisse der geplanten Versuche sollen klären, ob die Einwanderung von Tumorzellen durch die Kompetition mit Zellen vermindert werden kann.
+Die Versuchstiere werden pharmakologisch behandelt und anschließend werden kompetitiv Zellen und Tumorzellen appliziert. Die Versuchsdauer beträgt 7 Tage.
+Experimente mit Zellen sind nicht ausreichend, da sich Tumorzellen in vitro anders verhalten können, als in vivo. Des Weiteren sind viele Interaktionen zwischen Tumorzellen und Umgebung nicht bekannt, so dass das Millieu nicht ausreichend nachgeahmt werden kann.
+Das Experiment ist so angelegt, dass eine einmalige Untersuchung genügend Daten liefern wird, so dass eine Wiederholung nicht erforderlich ist.
+Die Anzahl der Mäuse wurde auf ein Minimum gehalten. Es müssen Versuchstieren verwendet werden, da über beteiligte Moleküle und Interaktionen von Tumorzellen mit umgebenden Zellen zu wenig bekannt ist, um den Metastasierungsprozess in vitro nachzuahmen. Des Weiteren können sich Tumorzellen in vitro anders verhalten. Der verwendte Tiermodell zur Untersuchung der Metastasierung sind sehr gut etabliert und werden standardmäßig verwendet.

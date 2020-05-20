@@ -1,0 +1,6 @@
+Hypoxie Herzentwicklung Sirt-1
+Der kongenitale Herzdefekt geht mit einem Defekt der Struktur sowie großer Gefäße des Herzens einher und beeinflusst schon frühzeitig den Aufbau und die Funktion des Herzens eines Neugeborenen. Es ist einer der häufigsten angeborenen Herz-Defekte und resultierte 2010 in über 223000 Todesfällen weltweit. Trotz der lebensbedrohlichen Auswirkungen sind die molekularen Mechanismen, die zur Ausprägung von CHD während der embryonalen und fötalen Herzentwicklung führen noch weitestgehend unbekannt.
+Bei den Tieren wird mit unterschiedlichen Methoden eine Hypoxie induziert. Im Rahmen der Gewebsanalysen ist der Tod der Tiere unvermeidlich.
+Die Maus ist am besten geeignet, um ein genetisches Modell für humane kongenitale Herzdefekte zu erzeugen und bietet somit die Möglichkeit, Ursache und Prinzip der Krankheitsentstehung aufzuzeigen und einen therapeutischen Ansatz zu finden, der hilft, die multifaktoriellen Grundlagen der Erkrankung, einschließlich der Wechselwirkung zwischen Umweltfaktoren sowie Hypoxie bzw. genetischer Prädisposition zu verstehen.
+Die Tierzahlen ergeben sich aufgrund Berechnungen zur notwendigen Gewebemenge.
+Zur Abbildung der Pathogenese beim Menschen ist ein Tier mit gleichem Organaufbau notwendig.Während des Versuches sollten keine Leiden auftreten die einer analgetischen Intervention erfordern.

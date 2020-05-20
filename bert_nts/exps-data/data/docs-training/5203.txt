@@ -1,0 +1,6 @@
+Mosaikes Pankreaskarzinom-Modell
+Das Pankreaskarzinom zeichnet sich durch eine hohe Sterblichkeit der Patienten und einer hohen Therapieresistenz aus. Es gibt noch immer keine so erfolgreiche therapie, wie es z.B. bei Leukämien oder dem Mammakarzinom der Fall ist. Das Versuchsvorhaben soll ein Modell des Pankreaskarzinoms in der Maus etablieren. An diesem Modell sollen molekulare Mechanismen und Therapieen erforscht werden. Die Ergebnisse der Studie können dann in die Klinik übertragen werden.
+Die Tiere werden maximal kurzzeitig mäßig belastet werden. 
+Es werden Mäuse eingesetzt, da die komplexen Mechanismen des Organismus nur in vivo erforscht werden können.Interaktionen zwischen Immunsystem, Stroma und Tumor sind in Zellkultur nicht darstellbar. Therapieerfolge lassen sich ebenfalls nur im Patienten oder im Tier erfassen.
+Durch statistische Versuchsplanung wurde die erforderliche Gruppengröße bestimmt. Es werden nur die nötigen Tiere eingesetzt. Sollten Etablierungsversuche nicht zum gewünschten Versuchsziel fürhren, wird der Versuch abgebrochen.
+Schmerzhafte Eingriffe werden unter Narkose durchgeführt. Die Tiere werden in Gruppen gehalten. Bei Auftreten von Schmerzen oder Leiden werden die Tiere Schmerzlos getötet.Mäuse sind für das Vorhaben geeignet, da ihr Genom leicht zu modifizieren ist. Weiterhin sind alle Techniken an der Maus etabliert. 

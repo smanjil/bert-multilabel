@@ -1,0 +1,6 @@
+Bestimmung der akuten Toxizität an Fischen n. Richtlinie EPA OPPTS 850.1075
+Das Versuchsvorhaben dient der Erkennung und Bestimmung von Risiken, die bei Einsatz der zu prüfenden Chemikalien (z.B. Pestizide) auf aquatische Ökosysteme, insbesondere Fische, bestehen könnten. Der Versuch erfolgt gemäß einer von der amerikanischen Umweltbehörde (US-EPA) verfassten Richtlinie. 
+Bei den akuten Prüfungen an Fischen ist schweres Leiden zu erwarten. Ziel ist die Bestimmung einer tödlichen Konzentration. Am Versuchsende werden die Tiere schmerzfrei getötet.
+Bei den zu prüfenden Stoffen handelt es sich um Substanzen, die bisher nicht oder unvollständig charakterisiert sind und die aufggrund ihrer Produktionsmengen geprüft werden müssen. Daten zur Umweltgiftigkeit sind daher nicht verfügbar. Es erfolgt vor Beginn des Versuchsvorhabens eine Recherche, z.B. bei der Datenbank der Europäischen Chemikalien Agentur (ECHA). 
+Die Anzahl der einzusetzenden Versuchtiere wird durch die Richtlinie vorgegeben. Die Durchführung des Versuchsvorhabens mit der minimalen Anzahl an Versuchstieren wird grundsätzlich angestrebt.
+Die Fische werden unter Bedingungen gehalten, die ihren Ansprüchen hinsichtlich Besatzdichte und Schwarmgröße gerecht werden. 

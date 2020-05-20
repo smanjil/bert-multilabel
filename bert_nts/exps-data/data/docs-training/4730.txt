@@ -1,0 +1,6 @@
+Wirkmechanismus 2-TBP Spermatogenese
+Das geplante Versuchsvorhaben untersucht den potentiellen Wirkmechanismus der toxischen Wirkung einer Chemikalie auf die Spermatogenese bei Ratten. Im Vergleich dazu wird eine nicht-sensitive Spezies (Maus) untersucht. Es liegen derzeit keine wissenschaftlichen Erkenntnisse vor, über welchen Wirkmechanismus 2-(4-tert-butylbenzyl)propionaldehyd die Störung der Spermatogenese und die daraus resultierende Hodentoxizität induziert.
+Die Studie zielt auf die Ermittlung des Wirkmechanismus der Substanz hinsichtlich Hodentoxizität unterhalb eines Dosisniveaus, welches systemische Toxizität erzeugt.
+Eine Möglichkeit die Toxizität auf die Hoden und Störung der Spermatogenese in verschiedenen Spezies zu messen und zu vergleichen, besteht nur im Ganzkörpersystem. Eine Überprüfung, welcher Wirkmechanismus dieser Effekte unter Berücksichtigung der toxikodynamischen und toxikokinetischen Speziesspezifität zu Grunde liegt, ist daher nur im Tierversuch möglich.
+Es wird die minimale Tierzahl eingesetzt, die genügend statistische Power für ein aussagekräftiges Versuchsvorhaben hat.
+Die Tiere werden unter möglichst optimalen Bedingungen gehalten. Bei wider Erwarten auftretenden schweren Leiden oder Schäden werden die Tiere sofort getötet.

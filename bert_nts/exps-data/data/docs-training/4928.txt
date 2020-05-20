@@ -1,0 +1,6 @@
+Mono- und Polyklonale Antikörper
+Der Zweck dieses Verfahrens ist die Generierung von Antikörpern um Proteine für biomedizinische Forschung zu ermitteln. Die Funktion der Hälfte der Gene im menschlichen Chromosomensatz wurde noch nicht erforscht. Unter diesen sind Gene die mit menschlichen Krankheiten so wie Krebs in Ver-bindung gebracht wurden. Demzufolge ist es von großer Wichtigkeit zu verstehen was diese Gene tun. Absolut notwendige Hilfsmittel um neue Gene zu studieren sind Antikörper die das Genprodukt detektieren können. Diese müssen in Tieren hergestellt werden, und bislang konnte noch keine gute Alternative entwickelt werden.
+Im Vergleich zu anderen Experimenten und Verfahren an Tieren, ist die Produktion von Antikörpern nicht sehr belastend. Die Tiere werden immunisiert und Testblut wird entnommen, ähnlich wie bei Menschen wenn sie immunisiert werden oder ihnen Blut im Krankenhaus für Tests entnommen wird. Am Ende der Prozedur werden die Tiere unter Anästhesie getötet und ihr Blut gesammelt.
+Es bestehen keine guten Alternativen um Antikörper in Tieren zu generieren. 
+Wir werden die Anzahl der Tiere minimieren indem wir nur 3 Tiere pro Antigen immunisieren.
+Die Beschwerden der Tieren werden durch das einsetzen von Anästhesie minimiert. Die Hantierung der Tiere wird durch qualifiziertes Personal im Tierhaus des Instituts vorgenommen. 

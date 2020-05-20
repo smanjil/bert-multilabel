@@ -1,0 +1,6 @@
+Bio-SDM-I-RFG
+Mithilfe dieses Versuches soll geklärt werden, ob ein System zur Ablation sicher und effizient arbeitet. 
+Keine, Versuch in finaler Narkose. 
+Es wurden bereits zahlreichein-vitro-Tests, wie die mechanische Belastbarkeit (Zugtest, Knickstabilität etc.),Biokompatibilität (Zytotoxizitätstest etc.) etc. durchgeführt. Das hier getestete System hat alle diese Tests vorab bestanden.
+Es sollen 10 Tiere in diesen Versuchen insgesamt getestet werden. Da sich das Design noch im Prototypenstadium befindet, sind unvorhergesehene Ereignisse in-vivo (z.B. Nicht erreichen der Zieltemperatur oder der Wattleistung und damit ungenügende Ablation) nicht absehbar. Aus diesem Grund, werden pro Zeitpunkt und System erstmal nur 2 Tiere behandelt, um dann aus diesen Ergebnissen lernen und das System verbessern zu können.
+Die Tiere werden in Vollnarkose behandelt, aus der sie nicht mehr erwachen. So wird das Leiden der Tiere vermindert. 

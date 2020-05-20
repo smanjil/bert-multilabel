@@ -1,0 +1,6 @@
+Plasmakinetikstudie in Ratten
+Das geplante Versuchsvorhaben untersucht bei unterschiedlichen oralen Dosen die Plasmakinetik der Testsubstanz (eine Agrochemikalie) in der Ratte und ermittelt die daraus berechenbaren dosisabhängigen pharmakokinetischen Parameter der Testsubstanz.Die dosisabhängigen, pharmakokinetischen Paramter sollen zur Bewertung von Ergebnissen aus Studien mit wiederholter Testsubstanz-Verabreichung und zur Extrapolation dieser Daten für die Sicherheitsbewertung des Menschen herangezogen werden. Die Studie wird nach den aktuell vorliegenden regulatorischen Guidelines durchgeführt.
+Die Testsubstanz wird in einer Einmalgabe mit nicht toxischen Dosen verabreicht. Blutabnahmen ohne Betäubung, Belastung gering.
+Für die Untersuchungen stehen keine Alternativmethoden zur Verfügung.
+Da wesentlicher Destandteil der Studie ist, die Dosisabhängigkeit der pharmakokinetischen Parameter zu erfassen sind 5 Dosisgruppen vorgesehen. Die Tierzahl von 4 Tieren pro Dosisgruppe und Geschlecht entspricht der Guidelineanforderung und deckt interindividuelle Unterschiede ab und gibt eine ausreichende statistische Power.  
+regulatorisch akzeptierte Tierart

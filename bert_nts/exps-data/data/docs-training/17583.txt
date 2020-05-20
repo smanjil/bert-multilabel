@@ -1,0 +1,6 @@
+Zfyve26
+Herstellung einer Zfyve26-Knockin Mausmodell zur Aufklärung von Lokalisation und Funktion des krankheitsrelevanten Zfyve26-Proteins in Neuronen.
+Es sind keine Verhlatensauffälligkeiten erwartet.
+Untersuchungen an unterschiedlichen Zelllinien durch andere Methoden/Verfahren haben zu widersprüchlichen Ergebnissen geführt. Das Einfügen eines Tags/Epitops in den endogenen Locus eines Gens ist an primären Neuronen in Zellkultur bisher technisch nicht möglich. Da sich die Erkrankung an Nervenzellen manifestiert, ist die Lokalisation von Zfyve26 an  Neuronen in Organismus für das Verständnis der Erkrankung und damit auch perspektivisch für die Entwicklung neuer Therapien unumgänglich.
+Die Anzahl von Tieren pro Gruppen sind so berechnet, damit man einen signifikanten Unterschied erzielen kann.
+Sollten aufgrund unvorhergesehener Befunde Änderungen im Versuchablauf notwenidg sein, werden wir eine entsprechende Änderung beantragen.

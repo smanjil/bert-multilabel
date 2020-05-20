@@ -1,0 +1,6 @@
+CamKII/Elk
+Elk-1 ist ein Transkriptionsfaktor, der eine Vielzahl Gene reguliert und als ein Masterregulator der Stimulus-induzierten Genregulation anzusehen ist. Es gibt verschiedene Hypothesen, die besagen, dass Elk-1 eine zentrale Rolle im Gehirn bei Lern- und Gedächtnisvorgängen spielt, da die Aktivierung von Elk-1 mit der neuronalen Stimulation gekoppelt ist. Elk-1-defiziente Mäuse zeigen aufgrund der Kompensation durch ähnliche Proteine keinen signifikanten Phänotyp. Die Funktion von Elk-1 im Nervensystem kann daher nicht mit Elk-1 knockout-Mäusen getestet werden. Daher soll in diesem Forschungsprojekt eine neue Mauslinie generiert werden, bei der eine dominant-negative Mutante von Elk-1 im Vorderhirn, insbesondere im Hippocampus exprimiert werden soll. Diese Mutante sollte, basierend auf in vitro-Daten meines Labors, die Aktivität von Elk-1 und die Aktivitäten von Elk-1-verwandten Proteinen hemmen. In vitro-Experimente mit Zelllinien können nur Hinweise auf die Rolle von Elk-1 im Gehirn liefern. Letztendlich gibt es zum Tierexperiment keine Alternative, insbesondere wenn Parameter wie die neuronale Plastitizät gemessen werden sollen.
+keine
+Vorversuche wurden in Neuroblastomazellen durchgeführt.
+Die Anzahl der Tiere wird auf ein Minimum beschränkt.
+keine

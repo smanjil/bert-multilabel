@@ -1,0 +1,6 @@
+Xenopus PSM Screening
+Das Ziel der geplanten Untersuchungen ist das Erkennen von Umweltgefährdungen von Pflanzenschutzmitteln in einer frühen Phase der Entwicklung von Formulierungen. Die Versuche sollen Formulierungstypen mit niedriger Toxizität identifizieren.
+Akute Toxizitätstests mit Endpunkt Mortalität (Schweregrad: schwer gemäß Anhang VIII der Richtlinie 2010/63/EU). Die Tiere werden am Ende des Versuchs mit einer Überdosis eines Betäubungsmittels getötet.
+Für die geplanten Untersuchungen gibt es keine geeigneten in-vitro Testsysteme. 
+Die Anzahl der Tiere, welche im Versuch benötigt wird, konnte im Rahmen der Methodenentwicklung um etwa die Hälfte reduziert werden. Darüber hinaus sollen bis zu vier Versuche parallel unter Verwendung einer gemeinsamen Kontrollgruppe durchgeführt werden.
+Die Dauer der Versuche konnte im Rahmen der Methodenentwicklung von 48h auf maximal 24h reduziert werden.

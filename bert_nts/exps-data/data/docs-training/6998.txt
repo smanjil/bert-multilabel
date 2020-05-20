@@ -1,0 +1,6 @@
+Testung von Proteinen
+Die Testung der einzelnen Proteinchargen im Tiermodell gibt uns Informationen über die Funktionalität der jeweiligen Charge. Ein Auslassen dieser Testung führt in 5-10% der Fälle dazu, dass einzelne Versuchsgruppen, die mit ungetestetem Protein immunisiert werden, nicht erkranken. Dadurch würden größere Gruppen von Versuchstieren einer zusätzlichen Belastung ausgesetzt werden, da Versuche unnötigerweise wiederholt werden müssen.
+Die Induktion einer experimentellen entzündlichen Hauterkrankung und die wiederholten Eingriffe führt bei den Tieren zu einer insgesamt mäßigen Belastung über einen Zeitraum von maximal 10 Wochen andauert. Am Versuchsende erleiden die Tiere die maximale Belastung, da sie getötet werden, um die Endpunkte analysieren zu können. 
+Die komplexen Interaktionen, die zu einer kutanen Entzündung führen, könnenleider nicht in vitro nachgestellt werden. Eine in vitro Testung des Proteins gibt keine verlässliche Aussage über eine Funktionalität in vivo.
+Die Zahl der Tiere, die in dem Versuch eingesetzt werden, sind durch eine ststistische Planung auf ein maximalmögliches Minimum beschränkt worden. 
+Die Modelle der hier zu untersuchenden Hautentzündung wurden bisher nur inMäusen etabliert. In anderen Tieren gibt es keine Modelle.

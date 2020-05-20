@@ -1,0 +1,6 @@
+GMPPB-KO-Maus
+Wir wollen ein Tiermodell für eine erbliche Form der Muskeldystrophie generieren, um so die Ursachen aufzuklären und sich daraus ergebende Therapiemöglichkeiten evaluieren zu können.
+Die betroffenen Patenten erleiden eine leicht bis mittelgradig spätmanifeste Muskelschwäche. Wir erwarten daher bei KO-Tieren ebenfalls eine leichte altersabhängige motorische Problematik
+Alle Experimente werden standardisiert durchgeführt, so dass die Gruppengröße für Experimente relativ klein ist.
+Dieselben Tiere werden soweit möglich mehrfach verwendet.
+Sollten aufgrund unvorhergesehener Befunde Änderungen im Versuchsablauf notwendig sein, werden wir eine entsprechende Änderung beantragen.

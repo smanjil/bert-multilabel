@@ -1,0 +1,6 @@
+Stroma Effekt auf Tumorwachstum
+Tumorerkrankungen sind komplex und viele Schritte in der Entwicklung der Tumore sind noch nicht vollständig aufgeklärt. Die Veränderung der Umgebung könnte das Wachstum von Tumoren beeinflussen. Dadurch kann ein besseres Verständnis des Tumorwachstumsprozess erzielt werden und als Grundlage für die Entwicklung neuer Therapien verwendet werden. 
+Die Versuchstiere bekommen Zellen von anderen Tieren und es werden Tumore induziert. Anschließend wird das Wachstum der Tumore verfolgt. Durch das Wachstum der Tumore können Schmerzen in den Versuchstieren auftreten, wie sie auch bei Patienten mit Tumoren bekannt sind.
+Experimente mit Zellen sind nicht ausreichend, da sich Tumorzellen in vitro anders verhalten können als in vivo. Des Weiteren wird das Zusammenspiel mehrerer Zelltypen in diesem Versuch getestet, deren Charakterisierung noch nicht vollständig ist.
+Das Experiment ist so angelegt, dass eine einmalige Untersuchung genügend Daten liefern wird, so dass eine Wiederholung nicht erforderlich ist.
+Die Anzahl der Mäuse wurde auf ein Minimum gehalten. Es ist allerdings unerlässlich Versuchstiere zu verwenden, da die Komplexität der Tumorentwicklung nur hier simuliert werden kann. Die Methoden und das verwendete Tiermodell sind gut etabliert.

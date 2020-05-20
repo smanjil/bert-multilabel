@@ -1,0 +1,6 @@
+Handlungssteuerung II
+Das Versuchsvorhaben dient der Identifikation von neuralen Schaltkreisen, welche der Handlungssteuerung dienen. Bei bestimmten neuropsychiatrischen Erkrankungen treten typische Störungen bei der Handlungssteuerung auf, deren neurale Grundlagen noch unbekannt sind. Das Versuchsvorhaben ermöglicht ein besseres Verständnis der Physiologie der Handlungssteuerung und seiner pathophysiologischen Abweichungen.      
+Chirurgische Implantation von biomedizinischen Geräten unter Narkose (mittlere Belastung), mehrfache Applikation von Wirkstoffen oder optogenetische Stimulation, Tötung nach Versuchsende, Gewebeentnahme, Histologie. Der Eingriff verursacht vorübergehend Belastungen mittleren Schweregrades.
+Nach dem Stand der Erkenntnisse ist der Versuchszweck nur durch Tierversuche zu erreichen. Nur im intakten Organismus können höhere Hirnleistungen und ihre physiologische Basis untersucht werden. 
+Die Bemessung der Tierzahl beruht auf statistischen Kenntnissen und Forschungserfahrungen über Effektstärken unter Annahme der üblichen Wahrscheinlichkeiten für Alpha (0.05)- und Beta (0.2)-Fehler. 
+Die erforderlichen Dosierungen und Applikationswege wurden so gewählt, dass die Belastungen unter Beachtung des Versuchsziels so gering wie möglich sind.

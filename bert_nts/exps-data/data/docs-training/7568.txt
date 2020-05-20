@@ -1,0 +1,6 @@
+Spinghosin-1-phosphat in Pemphigoiden
+Das Projekt soll die Rolle des wichtigen Lipidmediators Sphingosine-1-phosphats (S1P) in Pemphigoid-Erkrankungen erforschen. S1P ist ein wichtiger Immunmediator und Zielstruktur in anderen Autoimmunerkrankungen. Seine Rolle in Pemphigoiden ist bisher jedoch immer noch unbekannt. Die Erforschung seiner Rolle soll die Einführung von S1P-Modulatoren in die Therapie der Pemphigoide den Weg ebnen.
+Die Tiere werden in den Versuchen durch die Induktion einer Dermatitis, der wiederholten Injektion von Medikamenten sowie mehrmaligen Narkosen einer mäßigen Belastung ausgesetzt. Am Versuchsende erleiden die Tiere die höchste Belastung bei ihrer Tötung.
+Die komplexen Interaktionen die zur Manifestation einer Pemphigoid-Erkrankung führen lassen sich nicht ausreichend durch in vitro Experimente abbilden. Daher können unsere aufgestellten Hypothesen nur an den Tiermodellen der Pemphigoide untersucht werden.
+In den Versuchen wird jeweils erst nur eine Medikamenten-Dosis getestet. Des Weiteren wird auch erstmal nur ein Medikament pro pharmakologischer Zielstruktur getestet.
+Die Tiere werden im Falle einer übermäßig starken Dermatits sofort getötet. Eine Pemphigoid-Erkankung lässt sich in weniger empfindlichen Lebewesen derzeit nicht simulieren.

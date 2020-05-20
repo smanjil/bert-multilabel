@@ -1,0 +1,6 @@
+Gerinnungssystem und hämorrhagische Transformation
+Wichtig ist die bislang unklare Risiko einer hämorrhagischen Transformation nach einer zerebralen Ischämie unter verschiedenen Thrombozytenaggregationshemmern und Antikoagulantien. Weiterhin sollen Mechanismen der Gewebeschädigung nach einer hämorrhagischen Tranformation analysiert werden. 
+Für eine kurze Dauer von 24 - 26 h ist eine mittlere Belastung zu erwarten. 
+Es gibt keine ausreichend guten Zell/Gewebekulturmethoden um die komplexen intrazerebralen Mechanismen nach einer zerebralen Ischämie zu untersuchen. Auch für sinnesphysiologisch niedrigere Tiere besteht kein Schlaganfallmodell. Tierversuche sind die einzige möglichkeit A. das Risiko einer hämorrhagischen Transformation und B. die molekularen und zellulären Veränderungen im betroffenem Gewebe systematisch zu untersuchen.  
+1. Pilotprojekte2. Fallzahlberechnung3. Verwendung der Tiere für die maximal mögliche Anzahl an Assays
+1. Strenge überwachung einer potenten Narkose, Über die Narkose hinausbestehende Analgesie2. C57/Bl6 Mäuse sind Standard für die Untersuchung in schlaganfallmodellen. 

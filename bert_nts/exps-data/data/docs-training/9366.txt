@@ -1,0 +1,6 @@
+Zuchtrahmenantrag für belastete Mauslinien
+Mit der Erhaltungszucht der beantragten Mauslinien werden diese für den Einsatz in zukünftigen Experimenten sichergestellt.
+Durch die Erhaltungszucht sind keine Schäden für fas Tier zu erwarten. Die Linien zeichnen sich durch einen geringen bis mittleren Belastugsgrad im Phänotyp aus.
+Bestimmte wissenschaftliche Zielsetzungen, insbesondere komplexe Vorgänge in einem Gesamtorganismus, lassen sich nicht in vitro hinreichend erforschen, so dass auch die Erhaltungszucht bestimmter transgen veränderter Mausmodelle erforderlich ist. Allgemeine und linienspezifische Abbruchkriterien sind für jede Linie in Score Sheets definiert und dienen der Vermeidung von unnötiger Belastung.
+Für die reine Erhaltungszucht einer Mauslinie wurde von der geringsten notwendigen Anzahl an Tieren ausgegangen, die dafür in einem Kalenderjahr benötigt werden. 
+Für die Erhaltungszucht werden Mäuse, deren Genom weitestgehend mit dem des Menschen übereinstimmt, eingesetzt, da bei ihnen gentechnische Methoden, die die Untersuchungen erst ermöglichen, am besten etabliert sind. Nur so können Mauslinien für zuküftige Versuchsvorhaben bereitgestellt werden.

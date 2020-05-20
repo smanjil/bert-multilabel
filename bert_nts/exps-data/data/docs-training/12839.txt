@@ -1,0 +1,6 @@
+ME-2016-3. Produktion polyklonalen Antikoerper
+Arbeiten der letzten Jahre haben gezeigt, dass für die Wirkung eines IgG Antikörpers dessen IgG Subklasse und Art der Fc Glykosylierung entscheidend ist.In vitro und in vivo Versuche haben in den letzten Jahren gezeigt, dass es schwierig ist, mit monoklonalen Antigen-spezifischen IgG Antikörpern zu arbeiten, da diese immer nur ein Epitop erkennen, und es dadurch Schwierigkeiten bei der Vernetzung der Zielrezeptoren auf Zielzellen gibt. In Zukunft sollen daher polyklonale IgG Antikörpern (erkennen verschiedene Epitope eines Antigens) aus der Maus (nicht aus dem Kaninchen) verwendet werden, um auch die Rolle der einzelnen murinen IgG Subklassen (IgG1, IgG2a, IgG2b und IgG3) untersuchen zu können.Um verschiedene IgG Subklassen und Fc Glykosylierungen in der Maus zu induzieren, soll das Antigen mit verschiedenen Adjuvantien immunisiert werden.
+Durch die einmalige Injektion eines Antigens mit Adjuvans ist die Belastung gering bis mittel.
+Polyklonale Antikörper können nur in vivo generiert werden.
+Polyklonale Antikörper können nur in vivo generiert werden.
+Polyklonale Antikörper können nur in vivo generiert werden.

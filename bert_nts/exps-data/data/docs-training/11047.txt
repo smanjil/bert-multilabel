@@ -1,0 +1,6 @@
+Induzierte Immundefizienz
+Immundefiziente Tiermodelle werden in vielen Bereichen der biomedizinischen Forschung eingesetzt. Vorwiegend sind es hier immundefiziente Mausmodelle, die in der Tumorbiologie, Infektionsbiologie und Transplantationsbiologie eingesetzt werden.Aber gerade bei der Transplantation von Organen kann es hier auf Grund der größe des Tiermodells zu Schwierigkeiten kommen. Abhilfe können hier immundefiziente Rattenmodelle schaffen. Zur Zeit gibt es nur immundefiziente Rattenmodelle die noch über eine Restfunktion der NK Zellen verfügen, was bei Organtransplantationen zu  Abstoßungsreaktionen führt. Mit Hilfe der Cripr Cas9 Technik können nun immundefiziente Rattenmodelle generiert werden, die für Transplantationsexperimente geeignet sind.
+Keine Schäden. Die Ratten werden unter adäquaten Bedingungen gehalten.
+Genetisch veränderte Tiermodelle können nicht in vitro generiert werden.
+Es werden nur so viele Tiere verwendet, wie zur Generierung der Founder Tiere notwendig sind.
+Es finden keine operativen Eingriffe ohne Narkose und Analgesie statt. Das neue Tiermodell wird dazu beitragen, dass Transplantationsexperimente unter weniger schwierigen Bedingungen erfolgen.
