@@ -249,7 +249,7 @@ def save(fname, data):
         pkl.dump(data, wf)
 
 
-def read_train_file(processed_train_file, label_threshold=5):
+def read_train_file(processed_train_file, label_threshold=25):
     with open(processed_train_file, "rb") as rf:
         train_data = pkl.load(rf)
 
@@ -296,9 +296,12 @@ def read_dev_file(proceesed_dev_file, mlb, discard_labels):
     temp = []
     for val in dev_data:
         # discard any labels and keep only ones seen in training
+        # val_labels = {
+        #     label for label in val[-1]
+        #     if label not in discard_labels and label in set(mlb.classes_)
+        # }
         val_labels = {
             label for label in val[-1]
-            if label not in discard_labels and label in set(mlb.classes_)
         }
         if val_labels:
             list(val).append(val_labels)
