@@ -309,8 +309,10 @@ def read_dev_file(proceesed_dev_file, mlb, discard_labels):
     print("[INFO] no. of data points removed %d" % (len(dev_data) - len(temp)))
 
     dev_data = temp[:]
+    mlbs = MultiLabelBinarizer()
     temp = [val[-1] for val in dev_data]
-    labels = mlb.transform(temp)
+    labels = mlbs.fit_transform(temp)
+    breakpoint()
     dev_data = [(val[0], val[1], labels[idx, :]) for idx, val in
                 enumerate(dev_data)]
     return dev_data
