@@ -573,7 +573,8 @@ def main():
             optimizer = BertAdam(optimizer_grouped_parameters,
                                  lr=args.learning_rate,
                                  warmup=args.warmup_proportion,
-                                 t_total=num_train_optimization_steps)
+                                 t_total=num_train_optimization_steps,
+                                 schedule='warmup_cosine')
     
     global_step = 0
     nb_tr_steps = 0
