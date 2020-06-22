@@ -1045,7 +1045,7 @@ def main():
         ids = ids[0]
         preds_prob = sigmoid(preds[0])
         preds = (preds_prob > 0.5).astype(int)
-        id2preds = {val:preds[i] for i, val in enumerate(ids)} 0.5).astype(int)
+        id2preds = {val:preds[i] for i, val in enumerate(ids)}
         
         for i, val in enumerate(all_ids_test):
             if val not in id2preds:
