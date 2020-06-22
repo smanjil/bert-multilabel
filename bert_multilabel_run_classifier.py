@@ -886,7 +886,7 @@ def main():
     nb_tr_steps = 0
     tr_loss = 0
     
-    def doc_id_pred_probs(ids, mlb, prob_type):
+    def doc_id_pred_probs(preds_prob, ids, mlb, prob_type):
         model_name = args.bert_model.split('/')[-1]
         main_prob_dict = {}
 
@@ -987,7 +987,7 @@ def main():
         preds = [id2preds[val] if val in id2preds else [] for i, val in enumerate(all_ids_dev)]
 
         # preds prob and doc id with classes
-        doc_id_pred_probs(ids, mlb, 'eval')
+        doc_id_pred_probs(preds_prob, ids, mlb, 'eval')
         # end
 
         with open(os.path.join(args.output_dir, "preds_development.txt"),
@@ -1060,7 +1060,7 @@ def main():
         preds = [id2preds[val] if val in id2preds else [] for i, val in enumerate(all_ids_test)]
         
         # preds prob and doc id with classes
-        doc_id_pred_probs(ids, mlb, 'predict')
+        doc_id_pred_probs(preds_prob, ids, mlb, 'predict')
         # end
         
         with open(os.path.join(args.output_dir, "preds_test.txt"),
