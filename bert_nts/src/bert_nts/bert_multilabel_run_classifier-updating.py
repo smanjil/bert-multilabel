@@ -421,7 +421,7 @@ def main():
                         help="Bert pre-trained model selected in the list: "
                              "bert-base-german-cased, bert-base-uncased, "
                              "bert-large-uncased, bert-base-cased, "
-                             "bert-large-cased, bert-base-multilingual-uncased, 
+                             "bert-large-cased, bert-base-multilingual-uncased, "
                              "bert-base-multilingual-cased, "
                              "bert-base-chinese.")
     parser.add_argument("--task_name",

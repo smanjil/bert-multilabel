@@ -885,6 +885,20 @@ def main():
     global_step = 0
     nb_tr_steps = 0
     tr_loss = 0
+    
+    def doc_id_pred_probs(ids, mlb, prob_type):
+        model_name = args.bert_model.split('/')[-1]
+        main_prob_dict = {}
+
+        for doc_index, doc in enumerate(ids):
+            prob_dict = dict()
+            for i, classes in enumerate(mlb.classes_):
+                prob_dict[classes] = f"{preds_prob[doc_index][i]:.3f}"
+            main_prob_dict[str(doc)] = prob_dict
+
+        import json
+        with open(f'class_prob_{args.corpus_type}-{prob_type}-{model_name}.json', 'w') as json_file:
+            json.dump(main_prob_dict, json_file)
 
     def eval():
         eval_examples = processor.get_dev_examples()
@@ -946,8 +960,8 @@ def main():
 
         eval_loss = eval_loss / nb_eval_steps
         ids = ids[0]
-        preds = sigmoid(preds[0])
-        preds = (preds > 0.5).astype(int)
+        preds_prob = sigmoid(preds[0])
+        preds = (preds_prob > 0.5).astype(int)
         
         result = compute_metrics(task_name, preds, all_label_ids.numpy())
         #result = compute_metrics(task_name, preds, all_label_ids.numpy())
@@ -971,7 +985,11 @@ def main():
         preds = [mlb.classes_[preds[i, :].astype(bool)].tolist() for i in range(preds.shape[0])]
         id2preds = {val:preds[i] for i, val in enumerate(ids)}
         preds = [id2preds[val] if val in id2preds else [] for i, val in enumerate(all_ids_dev)]
-        
+
+        # preds prob and doc id with classes
+        doc_id_pred_probs(ids, mlb, 'eval')
+        # end
+
         with open(os.path.join(args.output_dir, "preds_development.txt"),
                   "w") as wf:
             for idx, doc_id in enumerate(all_ids_dev):
@@ -1025,9 +1043,9 @@ def main():
                     ids[0], doc_ids.detach().cpu().numpy(), axis=0)
         
         ids = ids[0]
-        preds = sigmoid(preds[0])
-        preds = (preds > 0.5).astype(int)
-        id2preds = {val:preds[i] for i, val in enumerate(ids)}
+        preds_prob = sigmoid(preds[0])
+        preds = (preds_prob > 0.5).astype(int)
+        id2preds = {val:preds[i] for i, val in enumerate(ids)} 0.5).astype(int)
         
         for i, val in enumerate(all_ids_test):
             if val not in id2preds:
@@ -1040,6 +1058,10 @@ def main():
         preds = [mlb.classes_[preds[i, :].astype(bool)].tolist() for i in range(preds.shape[0])]
         id2preds = {val:preds[i] for i, val in enumerate(ids)}
         preds = [id2preds[val] if val in id2preds else [] for i, val in enumerate(all_ids_test)]
+        
+        # preds prob and doc id with classes
+        doc_id_pred_probs(ids, mlb, 'predict')
+        # end
         
         with open(os.path.join(args.output_dir, "preds_test.txt"),
                   "w") as\
